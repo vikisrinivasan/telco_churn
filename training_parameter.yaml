@@ -1,0 +1,25 @@
+density_threshold_max: 500000
+density_threshold_min: 10
+fill_na: False
+K_best_features: 200
+corr_threshold: 0.9
+CROSSVAL_N: 5
+
+train_test_split_size: 0.2
+sampling: True
+SEED: 270
+N_BIN: 10
+N_JOBS: 1
+
+PARAMETER_GRID: {
+  "RF": {
+          'n_estimators':[30,50,75],
+          'criterion':['gini','entropy'],
+          'max_depth':[3,5,8]
+  },
+  'XGB':{
+          'max_depth': [3,5,8],
+          'n_estimators': [75,100,150],
+          'learning_rate':[0.05,0.1]
+  }
+}
