@@ -1,0 +1,695 @@
+{
+ "eda": {
+  "base_customers": 7043,
+  "churn_rate": 0.2653698707936959,
+  "churners": 1869,
+  "by_contract": {
+   "Month-to-month": 0.4270967741935484,
+   "One year": 0.11269517990495587,
+   "Two year": 0.02831858407079646
+  },
+  "by_tenure": {
+   "0-6m": 0.5293720459149224,
+   "7-12m": 0.3588652482269504,
+   "13-24m": 0.287109375,
+   "25-48m": 0.2038895859473024,
+   "49m+": 0.09513175524787852
+  },
+  "by_tenure_n": {
+   "0-6m": 1481,
+   "7-12m": 705,
+   "13-24m": 1024,
+   "25-48m": 1594,
+   "49m+": 2239
+  },
+  "by_internet": {
+   "DSL": 0.1895910780669145,
+   "Fiber optic": 0.4189276485788114,
+   "No": 0.07404980340760157
+  },
+  "by_payment": {
+   "Bank transfer (automatic)": 0.16709844559585493,
+   "Credit card (automatic)": 0.15243101182654403,
+   "Electronic check": 0.4528541226215645,
+   "Mailed check": 0.19106699751861042
+  },
+  "by_protect": {
+   "At least one": 0.24423529411764705,
+   "None": 0.2975295381310419
+  },
+  "reason_mix": {
+   "Competitor": 0.33226324237560195,
+   "Product / network": 0.22792937399678972,
+   "Support experience": 0.1958266452648475,
+   "Price": 0.13001605136436598,
+   "Unknown": 0.08239700374531835,
+   "Not saveable": 0.03156768325307651
+  },
+  "avg_bill": {
+   "0": 61.26512369540008,
+   "1": 74.44133226324237
+  }
+ },
+ "tenure_t0": {
+  "table": {
+   "As delivered (last account update)": {
+    "precision@20": 0.6989,
+    "recall@20": 0.5268,
+    "lift@20": 2.6353,
+    "churners_caught": 246.0,
+    "contacted": 352.0,
+    "pr_auc": 0.6711,
+    "roc_auc": 0.8594,
+    "accuracy@0.5": 0.7575,
+    "test customers": 1761.0
+   },
+   "Rebuilt to 31 Mar": {
+    "precision@20": 0.6761,
+    "recall@20": 0.5096,
+    "lift@20": 2.5496,
+    "churners_caught": 238.0,
+    "contacted": 352.0,
+    "pr_auc": 0.6477,
+    "roc_auc": 0.8519,
+    "accuracy@0.5": 0.7524,
+    "test customers": 1761.0
+   },
+   "Rebuilt, joiners after T0 removed": {
+    "precision@20": 0.6384,
+    "recall@20": 0.5205,
+    "lift@20": 2.6026,
+    "churners_caught": 203.0,
+    "contacted": 318.0,
+    "pr_auc": 0.6279,
+    "roc_auc": 0.8563,
+    "accuracy@0.5": 0.761,
+    "test customers": 1590.0
+   },
+   "Shifted -3 months for everyone": {
+    "precision@20": 0.7045,
+    "recall@20": 0.531,
+    "lift@20": 2.6568,
+    "churners_caught": 248.0,
+    "contacted": 352.0,
+    "pr_auc": 0.6627,
+    "roc_auc": 0.8564,
+    "accuracy@0.5": 0.7547,
+    "test customers": 1761.0
+   },
+   "No tenure at all": {
+    "precision@20": 0.6222,
+    "recall@20": 0.469,
+    "lift@20": 2.3461,
+    "churners_caught": 219.0,
+    "contacted": 352.0,
+    "pr_auc": 0.608,
+    "roc_auc": 0.8382,
+    "accuracy@0.5": 0.7405,
+    "test customers": 1761.0
+   }
+  },
+  "delta": {
+   "delta": -0.017130620985010725,
+   "ci_low": -0.030568799572230708,
+   "ci_high": 0.0,
+   "p_b_better": 0.023
+  },
+  "joined_after_t0": 665
+ },
+ "split": {
+  "train": 5282,
+  "test": 1761,
+  "test_churners": 467,
+  "list_test": 352
+ },
+ "cv": {
+  "Logistic, no weighting": {
+   "recall@20": 0.5235,
+   "precision@20": 0.6957,
+   "lift@20": 2.6211,
+   "pr_auc": 0.6795,
+   "roc_auc": 0.8584,
+   "accuracy@0.5": 0.8158
+  },
+  "Logistic, class-weighted": {
+   "recall@20": 0.5235,
+   "precision@20": 0.6957,
+   "lift@20": 2.6212,
+   "pr_auc": 0.6786,
+   "roc_auc": 0.8582,
+   "accuracy@0.5": 0.7605
+  },
+  "LightGBM, no weighting": {
+   "recall@20": 0.5114,
+   "precision@20": 0.6796,
+   "lift@20": 2.5604,
+   "pr_auc": 0.6796,
+   "roc_auc": 0.8597,
+   "accuracy@0.5": 0.809
+  },
+  "LightGBM, class-weighted": {
+   "recall@20": 0.5121,
+   "precision@20": 0.6806,
+   "lift@20": 2.564,
+   "pr_auc": 0.6827,
+   "roc_auc": 0.86,
+   "accuracy@0.5": 0.7645
+  }
+ },
+ "test": {
+  "Logistic (chosen)": {
+   "precision@20": 0.6988636363636364,
+   "recall@20": 0.5267665952890792,
+   "lift@20": 2.6353294724547403,
+   "churners_caught": 246.0,
+   "contacted": 352.0,
+   "pr_auc": 0.6711047076270339,
+   "roc_auc": 0.8593558145153549,
+   "accuracy@0.5": 0.7575241340147644
+  },
+  "LightGBM (challenger)": {
+   "precision@20": 0.6704545454545454,
+   "recall@20": 0.5053533190578159,
+   "lift@20": 2.528202258127312,
+   "churners_caught": 236.0,
+   "contacted": 352.0,
+   "pr_auc": 0.6837221026925476,
+   "roc_auc": 0.8589280454345373,
+   "accuracy@0.5": 0.7592277115275412
+  }
+ },
+ "recall_ci": [
+  0.4907055923744068,
+  0.5603705045903223
+ ],
+ "capacity_curve": [
+  {
+   "capacity": 0.1,
+   "churners_caught": 137,
+   "contacted": 176,
+   "recall": 0.2934,
+   "precision": 0.7784,
+   "extra churners per extra 1% of base": NaN
+  },
+  {
+   "capacity": 0.2,
+   "churners_caught": 246,
+   "contacted": 352,
+   "recall": 0.5268,
+   "precision": 0.6989,
+   "extra churners per extra 1% of base": 10.9
+  },
+  {
+   "capacity": 0.3,
+   "churners_caught": 313,
+   "contacted": 528,
+   "recall": 0.6702,
+   "precision": 0.5928,
+   "extra churners per extra 1% of base": 6.7
+  },
+  {
+   "capacity": 0.4,
+   "churners_caught": 375,
+   "contacted": 704,
+   "recall": 0.803,
+   "precision": 0.5327,
+   "extra churners per extra 1% of base": 6.2
+  }
+ ],
+ "deciles": [
+  {
+   "decile": 1,
+   "customers": 177,
+   "churn_rate": 0.7797,
+   "mean_score": 0.908,
+   "lift": 2.94
+  },
+  {
+   "decile": 2,
+   "customers": 176,
+   "churn_rate": 0.6193,
+   "mean_score": 0.8143,
+   "lift": 2.3354
+  },
+  {
+   "decile": 3,
+   "customers": 176,
+   "churn_rate": 0.375,
+   "mean_score": 0.7098,
+   "lift": 1.4141
+  },
+  {
+   "decile": 4,
+   "customers": 176,
+   "churn_rate": 0.3523,
+   "mean_score": 0.5833,
+   "lift": 1.3284
+  },
+  {
+   "decile": 5,
+   "customers": 176,
+   "churn_rate": 0.2273,
+   "mean_score": 0.4525,
+   "lift": 0.857
+  },
+  {
+   "decile": 6,
+   "customers": 176,
+   "churn_rate": 0.1761,
+   "mean_score": 0.2992,
+   "lift": 0.6642
+  },
+  {
+   "decile": 7,
+   "customers": 176,
+   "churn_rate": 0.0795,
+   "mean_score": 0.1808,
+   "lift": 0.3
+  },
+  {
+   "decile": 8,
+   "customers": 176,
+   "churn_rate": 0.0114,
+   "mean_score": 0.1006,
+   "lift": 0.0429
+  },
+  {
+   "decile": 9,
+   "customers": 176,
+   "churn_rate": 0.0227,
+   "mean_score": 0.0519,
+   "lift": 0.0857
+  },
+  {
+   "decile": 10,
+   "customers": 176,
+   "churn_rate": 0.0057,
+   "mean_score": 0.0189,
+   "lift": 0.0214
+  }
+ ],
+ "gains": {
+  "tabular": {
+   "share_contacted": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0
+   ],
+   "share_churners": [
+    0.0,
+    0.1542,
+    0.2934,
+    0.4111,
+    0.5268,
+    0.5996,
+    0.6702,
+    0.743,
+    0.803,
+    0.8544,
+    0.8887,
+    0.9315,
+    0.955,
+    0.9722,
+    0.985,
+    0.985,
+    0.9893,
+    0.9957,
+    0.9979,
+    1.0,
+    1.0
+   ]
+  },
+  "combined": {
+   "share_contacted": [
+    0.0,
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.35,
+    0.4,
+    0.45,
+    0.5,
+    0.55,
+    0.6,
+    0.65,
+    0.7,
+    0.75,
+    0.8,
+    0.85,
+    0.9,
+    0.95,
+    1.0
+   ],
+   "share_churners": [
+    0.0,
+    0.1649,
+    0.3062,
+    0.4368,
+    0.5289,
+    0.6081,
+    0.6895,
+    0.7537,
+    0.8094,
+    0.8587,
+    0.8994,
+    0.9336,
+    0.9486,
+    0.9657,
+    0.9807,
+    0.985,
+    0.9893,
+    0.9936,
+    0.9979,
+    1.0,
+    1.0
+   ]
+  }
+ },
+ "reach_by_reason": [
+  {
+   "reason_group": "Competitor",
+   "churners": 164,
+   "on_list": 0.5488
+  },
+  {
+   "reason_group": "Product / network",
+   "churners": 114,
+   "on_list": 0.5439
+  },
+  {
+   "reason_group": "Support experience",
+   "churners": 98,
+   "on_list": 0.551
+  },
+  {
+   "reason_group": "Price",
+   "churners": 42,
+   "on_list": 0.5238
+  },
+  {
+   "reason_group": "Unknown",
+   "churners": 36,
+   "on_list": 0.4167
+  },
+  {
+   "reason_group": "Not saveable",
+   "churners": 13,
+   "on_list": 0.2308
+  }
+ ],
+ "calls": {
+  "raw_calls": 2353,
+  "audit": [
+   [
+    "customer_id had leading/trailing spaces (fixed, kept)",
+    47
+   ],
+   [
+    "Customer ID not in customer file (orphan)",
+    8
+   ],
+   [
+    "After scoring date T0 2026-03-31 (not observable)",
+    946
+   ],
+   [
+    "Duplicate log of the same call",
+    17
+   ],
+   [
+    "Empty or stub transcript ([call disconnected], [no audio captured]); text ignored, counted as a failed contact",
+    38
+   ]
+  ],
+  "usable_calls": 1382,
+  "callers": 724,
+  "post_t0_termination": 266,
+  "post_t0_closed": 256,
+  "caller_churn": 0.3770718232044199,
+  "closers": 254,
+  "early_callers": 62,
+  "lead_median_days": 31.5
+ },
+ "comparison": {
+  "Tabular only": {
+   "CV recall@20": 0.5235,
+   "Test recall@20": 0.5268,
+   "Test precision@20": 0.6989,
+   "Test lift@20": 2.6353,
+   "Churners caught": 246.0,
+   "Test PR-AUC": 0.6711,
+   "Callers PR-AUC": 0.8421,
+   "Callers ROC-AUC": 0.8813
+  },
+  "Tabular + call sequence": {
+   "CV recall@20": 0.5328,
+   "Test recall@20": 0.531,
+   "Test precision@20": 0.7045,
+   "Test lift@20": 2.6568,
+   "Churners caught": 248.0,
+   "Test PR-AUC": 0.7019,
+   "Callers PR-AUC": 0.9003,
+   "Callers ROC-AUC": 0.9167
+  },
+  "Tabular + call sequence + text": {
+   "CV recall@20": 0.5435,
+   "Test recall@20": 0.5289,
+   "Test precision@20": 0.7017,
+   "Test lift@20": 2.646,
+   "Churners caught": 247.0,
+   "Test PR-AUC": 0.7078,
+   "Callers PR-AUC": 0.9109,
+   "Callers ROC-AUC": 0.9226
+  }
+ },
+ "delta": {
+  "lr": {
+   "delta": 0.0021413276231263545,
+   "ci_low": -0.009338433843384356,
+   "ci_high": 0.022782483864844372,
+   "p_b_better": 0.719
+  },
+  "lgb": {
+   "delta": 0.017130620985010614,
+   "ci_low": 0.004291386963060759,
+   "ci_high": 0.035955460350820534,
+   "p_b_better": 0.989
+  },
+  "caller_churners": 65,
+  "caller_churners_tab": 37,
+  "caller_churners_comb": 48,
+  "test_callers": 166
+ },
+ "segments": [
+  {
+   "segment": "Called to complain or leave",
+   "customers": 241,
+   "share_of_base": 0.0342,
+   "churn_rate": 0.5394,
+   "lift_vs_base": 2.0327,
+   "in_top20_list": 131,
+   "list_precision": 0.8168,
+   "churners": 130,
+   "monthly_bill_lost": 10652.6,
+   "avg_monthly_bill": 77.8981,
+   "top_reason": "Competitor",
+   "top_reason_share": 0.3769,
+   "competitor_share": 0.3769,
+   "support_share": 0.1692,
+   "action": "Retention desk call-back within 48h; close the open complaint before any offer"
+  },
+  {
+   "segment": "New fibre, no support add-ons",
+   "customers": 495,
+   "share_of_base": 0.0703,
+   "churn_rate": 0.7313,
+   "lift_vs_base": 2.7558,
+   "in_top20_list": 438,
+   "list_precision": 0.7671,
+   "churners": 362,
+   "monthly_bill_lost": 28402.6,
+   "avg_monthly_bill": 77.947,
+   "top_reason": "Competitor",
+   "top_reason_share": 0.3287,
+   "competitor_share": 0.3287,
+   "support_share": 0.2238,
+   "action": "Month-2 onboarding call; 3 months of tech support and security free"
+  },
+  {
+   "segment": "New fibre, with add-ons",
+   "customers": 380,
+   "share_of_base": 0.054,
+   "churn_rate": 0.6421,
+   "lift_vs_base": 2.4197,
+   "in_top20_list": 293,
+   "list_precision": 0.6997,
+   "churners": 244,
+   "monthly_bill_lost": 21605.65,
+   "avg_monthly_bill": 87.2209,
+   "top_reason": "Competitor",
+   "top_reason_share": 0.3689,
+   "competitor_share": 0.3689,
+   "support_share": 0.1844,
+   "action": "Move to a 12-month contract with a first-year discount"
+  },
+  {
+   "segment": "Established fibre, no contract",
+   "customers": 1137,
+   "share_of_base": 0.1614,
+   "churn_rate": 0.4116,
+   "lift_vs_base": 1.5511,
+   "in_top20_list": 324,
+   "list_precision": 0.6852,
+   "churners": 468,
+   "monthly_bill_lost": 42715.9,
+   "avg_monthly_bill": 90.7964,
+   "top_reason": "Competitor",
+   "top_reason_share": 0.3205,
+   "competitor_share": 0.3205,
+   "support_share": 0.1944,
+   "action": "12-month price lock in exchange for a contract"
+  },
+  {
+   "segment": "New DSL, no contract",
+   "customers": 676,
+   "share_of_base": 0.096,
+   "churn_rate": 0.4186,
+   "lift_vs_base": 1.5776,
+   "in_top20_list": 212,
+   "list_precision": 0.6226,
+   "churners": 283,
+   "monthly_bill_lost": 12909.4,
+   "avg_monthly_bill": 47.8972,
+   "top_reason": "Competitor",
+   "top_reason_share": 0.3251,
+   "competitor_share": 0.3251,
+   "support_share": 0.1731,
+   "action": "Fibre upgrade offered on a 12-month contract"
+  },
+  {
+   "segment": "Other month-to-month",
+   "customers": 1024,
+   "share_of_base": 0.1454,
+   "churn_rate": 0.1816,
+   "lift_vs_base": 0.6845,
+   "in_top20_list": 3,
+   "list_precision": 0.6667,
+   "churners": 186,
+   "monthly_bill_lost": 6392.95,
+   "avg_monthly_bill": 36.7991,
+   "top_reason": "Competitor",
+   "top_reason_share": 0.3011,
+   "competitor_share": 0.3011,
+   "support_share": 0.2097,
+   "action": "No call; email contract offer"
+  },
+  {
+   "segment": "On 1- or 2-year contract",
+   "customers": 3090,
+   "share_of_base": 0.4387,
+   "churn_rate": 0.0634,
+   "lift_vs_base": 0.239,
+   "in_top20_list": 8,
+   "list_precision": 0.625,
+   "churners": 196,
+   "monthly_bill_lost": 16451.75,
+   "avg_monthly_bill": 62.2392,
+   "top_reason": "Competitor",
+   "top_reason_share": 0.3316,
+   "competitor_share": 0.3316,
+   "support_share": 0.199,
+   "action": "No outreach before contract end"
+  }
+ ],
+ "segment_mix": {
+  "Called to complain or leave": {
+   "Competitor": 0.3769,
+   "Not saveable": 0.0154,
+   "Price": 0.1615,
+   "Product / network": 0.2077,
+   "Support experience": 0.1692,
+   "Unknown": 0.0692
+  },
+  "New fibre, no support add-ons": {
+   "Competitor": 0.3287,
+   "Not saveable": 0.0387,
+   "Price": 0.1188,
+   "Product / network": 0.2099,
+   "Support experience": 0.2238,
+   "Unknown": 0.0801
+  },
+  "New fibre, with add-ons": {
+   "Competitor": 0.3689,
+   "Not saveable": 0.0328,
+   "Price": 0.127,
+   "Product / network": 0.2295,
+   "Support experience": 0.1844,
+   "Unknown": 0.0574
+  },
+  "Established fibre, no contract": {
+   "Competitor": 0.3205,
+   "Not saveable": 0.0299,
+   "Price": 0.1368,
+   "Product / network": 0.235,
+   "Support experience": 0.1944,
+   "Unknown": 0.0833
+  },
+  "New DSL, no contract": {
+   "Competitor": 0.3251,
+   "Not saveable": 0.0212,
+   "Price": 0.1237,
+   "Product / network": 0.2544,
+   "Support experience": 0.1731,
+   "Unknown": 0.1025
+  },
+  "Other month-to-month": {
+   "Competitor": 0.3011,
+   "Not saveable": 0.0269,
+   "Price": 0.1129,
+   "Product / network": 0.2366,
+   "Support experience": 0.2097,
+   "Unknown": 0.1129
+  },
+  "On 1- or 2-year contract": {
+   "Competitor": 0.3316,
+   "Not saveable": 0.051,
+   "Price": 0.1429,
+   "Product / network": 0.2092,
+   "Support experience": 0.199,
+   "Unknown": 0.0663
+  }
+ },
+ "list_full": {
+  "n": 1409,
+  "precision": 0.71611071682044,
+  "avg_bill": 78.9430801987225,
+  "m2m": 0.985805535841022,
+  "fibre": 0.8275372604684174,
+  "precision@20": 0.71611071682044,
+  "recall@20": 0.5398608881754949,
+  "lift@20": 2.6985381372746704,
+  "churners_caught": 1009.0,
+  "contacted": 1409.0
+ }
+}

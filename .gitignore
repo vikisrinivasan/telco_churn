@@ -11,6 +11,7 @@ models/churn_log/*.parquet
 models/churn_log/models/*.pkl
 .Python
 env/
+.venv/
 build/
 develop-eggs/
 dist/

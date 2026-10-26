@@ -1,0 +1,1762 @@
+CustomerID,rank,churn,Churn Reason,Contract,Tenure Months,Monthly Charges,churn_score,in_top_20pct
+1400-MMYXY,1,1,Attitude of service provider,Month-to-month,3,105.9,0.9687059579567994,True
+3049-SOLAY,2,1,Competitor offered higher download speeds,Month-to-month,3,95.2,0.9659813451098024,True
+9300-AGZNL,3,1,Product dissatisfaction,Month-to-month,1,94.0,0.9636230766162136,True
+9497-QCMMS,4,1,Competitor made better offer,Month-to-month,1,93.55,0.9634698091404058,True
+4826-XTSOH,5,1,Attitude of support person,Month-to-month,1,86.05,0.9622833595546376,True
+6108-OQZDQ,6,1,Attitude of service provider,Month-to-month,4,97.95,0.9615565990698767,True
+2725-KXXWT,7,1,Lack of self-service on Website,Month-to-month,1,90.75,0.9605632260831621,True
+8098-LLAZX,8,1,Service dissatisfaction,Month-to-month,4,95.45,0.9601598584868458,True
+6496-SLWHQ,9,1,Lack of self-service on Website,Month-to-month,3,105.0,0.9588183853345054,True
+0107-YHINA,10,1,Attitude of support person,Month-to-month,1,99.75,0.9585397272822549,True
+7181-BQYBV,11,1,Attitude of service provider,Month-to-month,1,102.45,0.9567649011274351,True
+3489-HHPFY,12,0,-,Month-to-month,2,84.05,0.9536813530345348,True
+0702-PGIBZ,13,1,Competitor made better offer,Month-to-month,4,101.7,0.9534043829317456,True
+0880-TKATG,14,1,Competitor had better devices,Month-to-month,4,101.15,0.9519105516175396,True
+7398-SKNQZ,15,0,-,Month-to-month,3,94.9,0.9511114683399763,True
+3068-OMWZA,16,1,Competitor made better offer,Month-to-month,1,88.8,0.9493494024799195,True
+6892-EZDTG,17,1,Extra data charges,Month-to-month,4,91.65,0.9489093313971924,True
+7577-SWIFR,18,0,-,Month-to-month,1,89.25,0.9479540681056834,True
+3318-NMQXL,19,0,-,Month-to-month,3,92.0,0.9469684173526518,True
+2034-GDRCN,20,1,Don't know,Month-to-month,2,90.4,0.9453805197144647,True
+4853-OITSN,21,0,-,Month-to-month,5,89.15,0.9428349846746417,True
+4228-ZGYUW,22,1,Competitor offered more data,Month-to-month,4,90.05,0.9390983429643983,True
+1363-TXLSL,23,1,Attitude of service provider,Month-to-month,1,70.3,0.9382514089290849,True
+7488-MXJIV,24,1,Attitude of support person,Month-to-month,4,85.65,0.9380651205283523,True
+7903-CMPEY,25,1,Competitor had better devices,Month-to-month,1,80.3,0.9374030949193539,True
+9248-OJYKK,26,1,Competitor offered higher download speeds,Month-to-month,1,76.45,0.9370335170864756,True
+4548-SDBKE,27,1,Attitude of service provider,Month-to-month,5,85.2,0.9364422357583493,True
+4988-IQIGL,28,1,Lack of self-service on Website,Month-to-month,1,75.35,0.9364012393598875,True
+4951-UKAAQ,29,1,Network reliability,Month-to-month,4,88.95,0.9362010387168777,True
+0679-IDSTG,30,1,Price too high,Month-to-month,1,69.25,0.9353459144654598,True
+4844-JJWUY,31,1,Competitor made better offer,Month-to-month,1,86.0,0.9348962241746434,True
+9799-CAYJJ,32,0,-,Month-to-month,2,69.3,0.9339565030356424,True
+2868-MZAGQ,33,1,Service dissatisfaction,Month-to-month,1,79.25,0.9330995495360942,True
+4140-MUHUG,34,1,Attitude of service provider,Month-to-month,3,86.85,0.9328251273910757,True
+6356-ELRKD,35,1,Don't know,Month-to-month,1,95.6,0.9319924303986328,True
+4614-NUVZD,36,1,Competitor offered more data,Month-to-month,1,81.1,0.9317791171281076,True
+3178-FESZO,37,1,Don't know,Month-to-month,1,100.25,0.93106792582528,True
+0495-RVCBF,38,1,Don't know,Month-to-month,1,79.7,0.9309110959481524,True
+6734-GMPVK,39,0,-,Month-to-month,5,105.3,0.9306048685274078,True
+8775-ERLNB,40,0,-,Month-to-month,1,74.3,0.9295715861677367,True
+1197-BVMVG,41,0,-,Month-to-month,4,74.45,0.9290457008061049,True
+0334-GDDSO,42,1,Service dissatisfaction,Month-to-month,3,81.35,0.928962581483259,True
+5960-WPXQM,43,1,Lack of self-service on Website,Month-to-month,1,79.05,0.928687929427678,True
+5834-ASPWA,44,1,Attitude of support person,Month-to-month,1,75.45,0.9280773856931619,True
+9787-XVQIU,45,1,Attitude of support person,Month-to-month,1,75.3,0.9279802370196881,True
+0637-KVDLV,46,1,Don't know,Month-to-month,2,76.5,0.9272012790865,True
+6877-TJMBR,47,1,Network reliability,Month-to-month,1,84.8,0.9268547987288668,True
+6861-XWTWQ,48,1,Lack of self-service on Website,Month-to-month,7,99.25,0.9266671000806472,True
+2609-IAICY,49,1,Limited range of services,Month-to-month,1,77.15,0.9265667151154936,True
+8058-INTPH,50,1,Competitor offered more data,Month-to-month,1,79.65,0.9264657035994744,True
+1389-CXMLU,51,1,Competitor made better offer,Month-to-month,3,91.05,0.9262824408524527,True
+7938-OUHIO,52,1,Attitude of service provider,Month-to-month,3,98.7,0.9261626750843991,True
+7321-VGNKU,53,0,-,Month-to-month,2,70.35,0.9259721303917251,True
+9837-BMCLM,54,1,Long distance charges,Month-to-month,3,78.5,0.9251802448164151,True
+7074-IEVOJ,55,1,Product dissatisfaction,Month-to-month,3,79.4,0.9250518315143975,True
+1981-INRFU,56,1,Don't know,Month-to-month,2,79.75,0.9249344488137115,True
+6941-PMGEP,57,1,Competitor made better offer,Month-to-month,5,80.0,0.9248915904138796,True
+5349-IECLD,58,1,Long distance charges,Month-to-month,2,94.95,0.924143780032226,True
+1618-CFHME,59,1,Don't know,Month-to-month,2,75.9,0.9241245839654934,True
+7817-BOQPW,60,1,Competitor made better offer,Month-to-month,2,75.55,0.9238862695244057,True
+6357-JJPQT,61,0,-,Month-to-month,3,80.5,0.9238187135910556,True
+8242-SOQUO,62,0,-,Month-to-month,5,84.7,0.9235969302425628,True
+5442-UTCVD,63,1,Attitude of service provider,Month-to-month,3,91.85,0.9221884620880608,True
+8361-LTMKD,64,1,Competitor offered more data,Month-to-month,4,74.4,0.9215339855523782,True
+4919-IKATY,65,1,Don't know,Month-to-month,5,84.5,0.921459372975835,True
+9306-CPCBC,66,1,Competitor made better offer,Month-to-month,3,74.25,0.9213274263647971,True
+8644-XLFBW,67,1,Competitor offered more data,Month-to-month,1,71.65,0.921140211393537,True
+4749-OJKQU,68,0,-,Month-to-month,4,75.65,0.9206245116498515,True
+9061-TIHDA,69,1,Attitude of service provider,Month-to-month,13,95.25,0.9181405896333017,True
+3878-AVSOQ,70,0,-,Month-to-month,1,71.25,0.9179762016277645,True
+8000-REIQB,71,1,Competitor offered higher download speeds,Month-to-month,1,69.95,0.9170220251225586,True
+5550-VFRLC,72,1,Limited range of services,Month-to-month,1,69.85,0.9169482102694588,True
+8375-DKEBR,73,1,Attitude of support person,Month-to-month,1,69.6,0.9167634118169949,True
+7503-ZGUZJ,74,1,Lack of self-service on Website,Month-to-month,1,84.65,0.9163211415338633,True
+8821-XNHVZ,75,1,Competitor offered more data,Month-to-month,1,80.05,0.9160877608392562,True
+4342-HENTK,76,1,Competitor had better devices,Month-to-month,2,70.65,0.9157619962111418,True
+2952-QAYZF,77,1,Competitor offered more data,Month-to-month,5,85.3,0.9145772870640373,True
+3902-FOIGH,78,1,Product dissatisfaction,Month-to-month,12,101.35,0.9144662519488236,True
+0219-YTZUE,79,1,Don't know,Month-to-month,4,84.8,0.9142582102482535,True
+8779-QRDMV,80,1,Competitor offered more data,Month-to-month,1,39.65,0.9123773672073014,True
+5119-NZPTV,81,0,-,Month-to-month,2,70.1,0.9105635795471846,True
+5570-PTWEH,82,1,Attitude of support person,Month-to-month,3,75.15,0.9099710784568292,True
+7465-ZZRVX,83,0,-,Month-to-month,1,70.35,0.9099020618583972,True
+2446-PLQVO,84,1,Don't know,Month-to-month,1,70.3,0.9098623068949948,True
+7273-TEFQD,85,1,Long distance charges,Month-to-month,3,41.15,0.9097915272990066,True
+6424-ELEYH,86,1,Attitude of service provider,Month-to-month,3,74.75,0.9096528157373053,True
+9134-CEQMF,87,1,Network reliability,Month-to-month,7,89.5,0.9093201186713877,True
+1820-TQVEV,88,1,Attitude of support person,Month-to-month,1,69.55,0.9092640834180681,True
+0187-QSXOE,89,0,-,Month-to-month,7,89.0,0.9089195424496985,True
+6653-CBBOM,90,1,Service dissatisfaction,Month-to-month,1,70.3,0.9066207246224296,True
+0328-GRPMV,91,1,Competitor had better devices,Month-to-month,1,70.1,0.9064564107790536,True
+0488-GSLFR,92,1,Product dissatisfaction,Month-to-month,1,69.5,0.9059619125435834,True
+9728-FTTVZ,93,1,Lack of self-service on Website,Month-to-month,1,69.2,0.9057137858993715,True
+6996-KNSML,94,1,Competitor had better devices,Month-to-month,1,74.9,0.9053990783703055,True
+3721-CNEYS,95,1,Poor expertise of phone support,Month-to-month,2,70.95,0.9051774697068148,True
+6407-UTSLV,96,0,-,Month-to-month,2,83.8,0.9050524020143431,True
+3411-WLRSQ,97,0,-,Month-to-month,3,74.6,0.9045137082532411,True
+8972-HJWNV,98,1,Competitor made better offer,Month-to-month,7,84.55,0.9041480432846061,True
+2568-BRGYX,99,1,Competitor had better devices,Month-to-month,4,70.2,0.903896070574439,True
+7235-NXZCP,100,1,Competitor made better offer,Month-to-month,2,74.85,0.9036198396292254,True
+0680-DFNNY,101,1,Competitor offered more data,Month-to-month,15,101.1,0.9034150637397502,True
+4236-XPXAV,102,1,Moved,Month-to-month,5,99.15,0.9028822709619864,True
+6077-BDPXA,103,0,-,Month-to-month,3,70.15,0.9024838621346503,True
+4274-OWWYO,104,1,Deceased,Month-to-month,1,74.35,0.9021129236880835,True
+3295-YVUSR,105,0,-,Month-to-month,2,72.6,0.901702913245325,True
+5383-MMTWC,106,1,Limited range of services,Month-to-month,8,84.0,0.9016435693968022,True
+2660-EMUBI,107,1,Attitude of support person,Month-to-month,10,95.35,0.9013149572882188,True
+6705-LXORM,108,0,-,Month-to-month,5,70.05,0.9012730071158678,True
+5196-SGOAK,109,1,Attitude of support person,Month-to-month,1,75.7,0.899810039224544,True
+0793-TWELN,110,0,-,Month-to-month,4,80.15,0.8991077739935893,True
+3765-JXVKY,111,1,Competitor offered more data,Month-to-month,1,74.7,0.8989324644430047,True
+7379-FNIUJ,112,0,-,Month-to-month,2,100.2,0.8977469479761535,True
+5955-ERIHD,113,1,Long distance charges,Month-to-month,18,94.7,0.8968727528679462,True
+6275-YDUVO,114,1,Attitude of service provider,Month-to-month,2,86.2,0.8964468432146336,True
+5318-IXUZF,115,1,Don't know,Month-to-month,2,87.15,0.8960658519473802,True
+4629-NRXKX,116,1,Network reliability,Month-to-month,2,70.4,0.8958227977266809,True
+2777-PHDEI,117,1,Competitor offered more data,Month-to-month,1,78.05,0.8950008399812546,True
+6060-DRTNL,118,1,Attitude of service provider,Month-to-month,5,84.85,0.8948998414192665,True
+0258-NOKBL,119,0,-,Month-to-month,3,90.4,0.8940189646902005,True
+2983-ZANRP,120,1,Extra data charges,Month-to-month,2,73.55,0.893649318574027,True
+1024-GUALD,121,1,Product dissatisfaction,Month-to-month,1,24.8,0.8933765348292066,True
+3317-HRTNN,122,1,Competitor offered higher download speeds,Month-to-month,5,45.7,0.8931629106747784,True
+3707-GNWHM,123,1,Don't know,Month-to-month,1,74.25,0.8930831843035426,True
+6956-SMUCM,124,1,Competitor offered higher download speeds,Month-to-month,3,99.0,0.8921789132319725,True
+9514-JDSKI,125,1,Limited range of services,Month-to-month,1,40.2,0.8919866265814931,True
+0564-JJHGS,126,1,Limited range of services,Month-to-month,9,95.5,0.8912636530774897,True
+0925-VYDLG,127,1,Attitude of service provider,Month-to-month,3,75.25,0.8904142629064452,True
+3276-HDUEG,128,1,Competitor offered higher download speeds,Month-to-month,1,75.05,0.8900728973535529,True
+3727-RJMEO,129,1,Competitor had better devices,Month-to-month,6,82.85,0.8899550920762406,True
+2260-USTRB,130,1,Competitor offered more data,Month-to-month,2,70.2,0.889258340519829,True
+0139-IVFJG,131,0,-,Month-to-month,2,90.35,0.8887024925881756,True
+7802-EFKNY,132,1,Attitude of support person,Month-to-month,5,24.95,0.888263445808272,True
+7568-PODML,133,1,Lack of affordable download/upload speed,Month-to-month,1,45.3,0.8880029847582505,True
+7943-RQCHR,134,1,Competitor offered more data,Month-to-month,9,94.75,0.886707434080925,True
+1636-NTNCO,135,0,-,Month-to-month,4,50.95,0.885884893192658,True
+7526-BEZQB,136,1,Lack of self-service on Website,Month-to-month,12,96.05,0.8848666957769357,True
+2968-SSGAA,137,1,Competitor offered more data,Month-to-month,10,100.6,0.8841246098246209,True
+2454-RPBRZ,138,1,Service dissatisfaction,Month-to-month,12,98.1,0.8811638949663957,True
+9185-TQCVP,139,1,Poor expertise of phone support,Month-to-month,14,85.15,0.8800997733577468,True
+9957-YODKZ,140,0,-,Month-to-month,6,80.8,0.8780874823751544,True
+9965-YOKZB,141,1,Network reliability,Month-to-month,9,83.85,0.875853520518342,True
+2027-FECZV,142,1,Attitude of support person,Month-to-month,12,106.7,0.8758129892487911,True
+9334-GWGOW,143,0,-,Month-to-month,7,74.85,0.8757151131758822,True
+9809-IMGCQ,144,1,Competitor made better offer,Month-to-month,22,96.7,0.8750325716365265,True
+5244-IRFIH,145,1,Competitor made better offer,Month-to-month,33,94.5,0.8749443455042427,True
+2205-YMZZJ,146,1,Competitor made better offer,Month-to-month,7,84.8,0.8746546337591663,True
+2135-DQWAQ,147,0,-,Month-to-month,5,85.3,0.8745624711724652,True
+3420-ZDBMA,148,0,-,Month-to-month,5,71.45,0.8743309531620749,True
+8625-AZYZY,149,1,Competitor made better offer,Month-to-month,24,104.65,0.873335538116312,True
+2815-CPTUL,150,1,Price too high,Month-to-month,5,70.25,0.8730468442811696,True
+0616-ATFGB,151,1,Competitor had better devices,Month-to-month,1,25.05,0.8726600885397903,True
+9576-ANLXO,152,1,Competitor offered higher download speeds,Month-to-month,3,69.55,0.8722226893051476,True
+3177-LASXD,153,1,Poor expertise of phone support,Month-to-month,1,71.35,0.8707941014307314,True
+6615-NGGZJ,154,1,Service dissatisfaction,Month-to-month,14,100.55,0.8705930892666282,True
+4298-OYIFC,155,0,-,Month-to-month,15,103.45,0.8698164785600817,True
+8042-JVNFH,156,1,Attitude of support person,Month-to-month,1,71.35,0.8697643427285168,True
+9451-LPGOO,157,1,Network reliability,Month-to-month,7,86.8,0.8694283760384103,True
+9940-RHLFB,158,1,Competitor made better offer,Month-to-month,1,75.3,0.8684529996964759,True
+7029-RPUAV,159,1,Competitor offered more data,Month-to-month,17,100.45,0.8680494915033478,True
+2856-HYAPG,160,1,Price too high,Month-to-month,1,68.65,0.8678197058271502,True
+0378-TOVMS,161,1,Extra data charges,Month-to-month,3,85.8,0.8674967758048173,True
+0506-LVNGN,162,1,Competitor offered higher download speeds,Month-to-month,5,75.55,0.866794575614976,True
+0480-BIXDE,163,0,-,Month-to-month,19,96.8,0.8660640610839302,True
+9290-SHCMB,164,0,-,Month-to-month,13,96.85,0.8656791380997784,True
+6969-MVBAI,165,0,-,Month-to-month,9,90.1,0.8641071861539387,True
+8185-UPYBR,166,1,Product dissatisfaction,Month-to-month,6,75.5,0.8640220551663043,True
+9985-MWVIX,167,1,Attitude of support person,Month-to-month,1,70.15,0.8639321503802401,True
+2619-WFQWU,168,1,Competitor offered higher download speeds,Month-to-month,1,70.15,0.8639321503802401,True
+3247-ZVOUO,169,1,Lack of self-service on Website,Month-to-month,10,85.55,0.8638740029278972,True
+4029-HPFVY,170,0,-,Month-to-month,3,70.3,0.863211977683646,True
+6127-ISGTU,171,1,Lack of self-service on Website,Month-to-month,16,84.95,0.8628787812294769,True
+8087-LGYHQ,172,0,-,Month-to-month,9,94.05,0.8623647690618136,True
+4123-DVHPH,173,0,-,Month-to-month,9,88.05,0.8618232167049765,True
+2080-GKCWQ,174,0,-,Month-to-month,2,74.95,0.8615556868199861,True
+7595-EUIVN,175,1,Network reliability,Month-to-month,1,75.8,0.8606677683212262,True
+2645-QTLMB,176,1,Network reliability,Month-to-month,7,94.25,0.8596188400627706,True
+8650-RHRKE,177,1,Limited range of services,Month-to-month,4,29.65,0.8589849860212732,True
+4285-GYRQC,178,1,Attitude of support person,Month-to-month,7,86.25,0.8589425912116586,True
+1579-KLYDT,179,1,Competitor made better offer,Month-to-month,7,90.45,0.858840925801846,True
+2057-ZBLPD,180,1,Competitor offered more data,Month-to-month,21,86.5,0.85874802368051,True
+6086-ESGRL,181,1,Attitude of support person,Month-to-month,1,80.15,0.857884880124808,True
+5382-SOYZL,182,0,-,Month-to-month,22,95.1,0.8578806553551688,True
+3186-BAXNB,183,1,Attitude of service provider,Month-to-month,1,91.7,0.8564019476448294,True
+1941-HOSAM,184,0,-,Month-to-month,1,90.1,0.8559344655118706,True
+8543-MSDMF,185,0,-,Month-to-month,3,77.4,0.8557189986569689,True
+5117-IFGPS,186,0,-,Month-to-month,29,84.3,0.8543984031274209,True
+2691-NZETQ,187,1,Competitor offered higher download speeds,Month-to-month,9,85.35,0.8542992586615736,True
+3703-VAVCL,188,1,Competitor made better offer,Month-to-month,2,90.0,0.8540776651152289,True
+3866-MDTUB,189,1,Lack of self-service on Website,Month-to-month,2,70.75,0.8530819536976987,True
+0817-HSUSE,190,0,-,Month-to-month,1,75.5,0.8527282206655951,True
+8642-GVWRF,191,1,Competitor offered more data,Month-to-month,2,79.7,0.8524587758114462,True
+2424-WVHPL,192,0,-,Month-to-month,1,74.7,0.8523393838609888,True
+2665-NPTGL,193,0,-,Month-to-month,26,98.1,0.8515152266383446,True
+2180-DXNEG,194,1,Product dissatisfaction,Month-to-month,12,96.0,0.8513690066246441,True
+6175-IRFIT,195,0,-,Month-to-month,5,78.75,0.8505632381575762,True
+4484-CGXFK,196,1,Product dissatisfaction,Month-to-month,3,55.3,0.8485372836365899,True
+1867-BDVFH,197,1,Competitor made better offer,Month-to-month,11,74.35,0.8483587442295653,True
+7392-YYPYJ,198,0,-,Month-to-month,22,100.65,0.8482979148496549,True
+1960-UYCNN,199,0,-,Month-to-month,10,95.25,0.8479868175274686,True
+2688-BHGOG,200,0,-,Month-to-month,9,79.55,0.84766576688719,True
+9828-AOQLM,201,1,Competitor offered higher download speeds,Month-to-month,1,45.7,0.847623768288706,True
+8443-WVPSS,202,1,Service dissatisfaction,Month-to-month,10,99.85,0.8473046459476707,True
+9330-IJWIO,203,1,Price too high,Month-to-month,13,100.35,0.8470645119740057,True
+1450-GALXR,204,1,Attitude of service provider,Month-to-month,10,98.5,0.8470256972590678,True
+8665-UTDHZ,205,1,Competitor had better devices,Month-to-month,1,30.2,0.8470213458945117,True
+9048-JVYVF,206,1,Price too high,Month-to-month,3,69.35,0.8467078406134906,True
+9606-PBKBQ,207,1,Attitude of support person,Month-to-month,32,85.0,0.846396096499848,True
+0115-TFERT,208,1,Attitude of service provider,Month-to-month,21,111.2,0.8461584342634477,True
+9172-JITSM,209,1,Don't know,Month-to-month,26,90.8,0.8461517963408693,True
+2754-VDLTR,210,1,Competitor offered more data,Month-to-month,10,95.2,0.8458392523552659,True
+6215-NQCPY,211,0,-,Month-to-month,15,99.7,0.8452590274057246,True
+0674-EYYZV,212,0,-,Month-to-month,1,54.65,0.8451005330597249,True
+4514-GFCFI,213,1,Competitor offered higher download speeds,Month-to-month,16,84.75,0.8447846637454693,True
+3565-UNOCC,214,1,Competitor offered higher download speeds,Month-to-month,29,99.05,0.8437034450679477,True
+1104-TNLZA,215,0,-,Month-to-month,28,105.8,0.843120491859208,True
+5348-CAGXB,216,0,-,Month-to-month,12,89.55,0.8430105532849766,True
+2685-SREOM,217,1,Service dissatisfaction,Month-to-month,25,89.1,0.8426734427023393,True
+6326-MTTXK,218,1,Attitude of service provider,Month-to-month,8,100.85,0.8420134235091614,True
+7240-ETPTR,219,1,Lack of affordable download/upload speed,Month-to-month,9,48.75,0.8389937999520681,True
+0988-JRWWP,220,0,-,Month-to-month,3,54.2,0.8383291637617128,True
+6242-MBHPK,221,0,-,Month-to-month,23,95.1,0.8377901451729208,True
+1084-UQCHV,222,1,Attitude of support person,Month-to-month,1,69.75,0.8365562012808372,True
+3318-OSATS,223,1,Don't know,Month-to-month,35,95.45,0.8364501946476858,True
+6260-ONULR,224,0,-,Month-to-month,1,62.8,0.8358836288285323,True
+0654-HMSHN,225,1,Attitude of support person,Month-to-month,21,104.4,0.835183270021111,True
+6860-YRJZP,226,0,-,Month-to-month,9,74.05,0.8350904833487832,True
+6543-XRMYR,227,1,Product dissatisfaction,Month-to-month,30,99.7,0.8348264781644927,True
+8844-TONUD,228,1,Attitude of service provider,Month-to-month,13,96.65,0.8348206624273719,True
+8634-MPHTR,229,1,Lack of self-service on Website,Month-to-month,47,100.05,0.8341038358370202,True
+0133-BMFZO,230,1,Competitor offered higher download speeds,Month-to-month,2,86.25,0.8331092112787056,True
+7142-HVGBG,231,1,Attitude of service provider,Month-to-month,43,103.0,0.8328879250642374,True
+3672-YITQD,232,1,Competitor made better offer,Month-to-month,36,84.1,0.8327088694385407,True
+7861-UVUFT,233,1,Competitor had better devices,Month-to-month,15,84.3,0.8322638307382959,True
+1254-IZEYF,234,1,Competitor made better offer,Month-to-month,31,99.95,0.8319370048824961,True
+5122-CYFXA,235,0,-,Month-to-month,3,75.3,0.831669258935714,True
+3663-MITLP,236,1,Lack of self-service on Website,Month-to-month,15,101.25,0.8314984348684862,True
+2235-DWLJU,237,0,-,Month-to-month,6,44.4,0.8311824252034452,True
+2026-TGDHM,238,1,Network reliability,Month-to-month,7,79.3,0.830427082387585,True
+0709-TVGUR,239,1,Competitor had better devices,Month-to-month,9,74.55,0.8303474106697644,True
+4289-DTDKW,240,1,Attitude of support person,Month-to-month,40,101.3,0.8299829909091824,True
+4445-ZJNMU,241,0,-,Month-to-month,9,99.3,0.8289491105723922,True
+6390-DSAZX,242,1,Product dissatisfaction,Month-to-month,1,73.6,0.8284449798200443,True
+3754-DXMRT,243,1,Competitor offered higher download speeds,Month-to-month,2,44.15,0.8282847603047861,True
+3346-BRMIS,244,1,Service dissatisfaction,Month-to-month,18,48.35,0.8278796899761998,True
+0661-XEYAN,245,1,Competitor offered more data,Month-to-month,1,25.8,0.8276325016462405,True
+5520-FVEWJ,246,1,Lack of self-service on Website,Month-to-month,12,84.5,0.8276155426872174,True
+2468-SJFLM,247,0,-,Month-to-month,1,74.3,0.8275372095956672,True
+3254-YRILK,248,1,Competitor had better devices,Month-to-month,19,88.2,0.8273011868904504,True
+6267-DCFFZ,249,0,-,Month-to-month,30,90.05,0.8272390448889284,True
+5480-HPRRX,250,1,Attitude of support person,Month-to-month,3,25.3,0.8271620752606387,True
+3518-PZXZQ,251,0,-,Month-to-month,1,55.3,0.8257525946532073,True
+9903-LYSAB,252,0,-,Month-to-month,18,73.15,0.8245544271853226,True
+1226-IENZN,253,0,-,Month-to-month,16,78.75,0.8243376258982639,True
+5628-FCGYG,254,0,-,Month-to-month,21,84.1,0.8241123662688493,True
+4559-UWIHT,255,0,-,Month-to-month,14,82.65,0.8239461584847466,True
+5980-NOPLP,256,1,Competitor offered higher download speeds,Month-to-month,44,96.1,0.8225251880328582,True
+5960-MVTUK,257,0,-,Month-to-month,3,29.75,0.822127723362809,True
+5357-TZHPP,258,1,Competitor offered higher download speeds,Month-to-month,9,84.4,0.821568018205598,True
+3217-FZDMN,259,1,Service dissatisfaction,Month-to-month,8,94.45,0.8211438426007981,True
+3138-BKYAV,260,1,Attitude of service provider,Month-to-month,6,85.35,0.8194306638516098,True
+0840-DFEZH,261,0,-,Month-to-month,7,75.35,0.8189753498553782,True
+9714-EDSUC,262,0,-,Month-to-month,4,94.9,0.8171924250652839,True
+3717-OEAUQ,263,0,-,Month-to-month,2,70.7,0.8166931882811165,True
+1989-PRJHP,264,1,Competitor had better devices,Month-to-month,27,75.5,0.8166919639617007,True
+5366-IJEQJ,265,1,Don't know,Month-to-month,20,88.7,0.8155808414810944,True
+5028-GZLDO,266,1,Service dissatisfaction,Month-to-month,2,70.7,0.8153716590722446,True
+3199-XGZCY,267,0,-,Month-to-month,8,75.25,0.8153593505477835,True
+0511-JTEOY,268,1,Competitor made better offer,Month-to-month,1,71.1,0.8149219101078814,True
+2082-CEFLT,269,1,Service dissatisfaction,Month-to-month,1,45.6,0.8142579082455398,True
+1219-NNDDO,270,0,-,Month-to-month,9,76.85,0.8141944537723943,True
+2754-SDJRD,271,0,-,Month-to-month,8,100.15,0.8137799168540182,True
+9227-LUNBG,272,1,Price too high,Month-to-month,1,24.6,0.8134265437086081,True
+8541-QVFKM,273,0,-,Month-to-month,8,73.5,0.8127909673322192,True
+4110-PFEUZ,274,1,Competitor had better devices,Month-to-month,1,69.55,0.8126442939396699,True
+6608-QQLVK,275,1,Competitor made better offer,Month-to-month,1,50.5,0.8125219106929662,True
+1508-DFXCU,276,0,-,Month-to-month,12,81.45,0.8123842033193012,True
+9136-ALYBR,277,1,Extra data charges,Month-to-month,1,24.45,0.8118161553465386,True
+0928-XUTSN,278,0,-,Month-to-month,13,80.5,0.8116689422269283,True
+4273-MBHYA,279,0,-,Month-to-month,1,89.35,0.8114801047069978,True
+6034-YMTOB,280,0,-,Month-to-month,5,75.65,0.8099258460503704,True
+4236-UJPWO,281,0,-,Month-to-month,2,24.5,0.809725457371516,True
+0939-YAPAF,282,1,Competitor offered higher download speeds,Month-to-month,35,100.25,0.809666885297468,True
+5439-WIKXB,283,0,-,Month-to-month,41,94.55,0.8075368720113402,True
+6032-IGALN,284,1,Service dissatisfaction,Month-to-month,1,25.1,0.8067855707361762,True
+5138-WVKYJ,285,1,Competitor offered higher download speeds,Month-to-month,10,98.55,0.8065379523286976,True
+4855-SNKMY,286,1,Competitor made better offer,Month-to-month,1,44.1,0.8060386624437584,True
+8709-KRDVL,287,0,-,Month-to-month,33,100.0,0.8054230541563525,True
+0378-NHQXU,288,1,Deceased,Month-to-month,17,88.25,0.80439376218337,True
+4325-NFSKC,289,1,Extra data charges,Month-to-month,19,90.6,0.8042458397737239,True
+8610-WFCJF,290,1,Competitor offered higher download speeds,Month-to-month,49,95.6,0.8041652699668018,True
+3003-CMDUU,291,0,-,Month-to-month,25,95.15,0.8039137321874417,True
+1666-JXLKU,292,0,-,Month-to-month,37,100.05,0.8020950831207186,True
+6877-LGWXO,293,1,Lack of self-service on Website,Month-to-month,18,78.55,0.801940704760521,True
+7517-LDMPS,294,0,-,Month-to-month,12,84.6,0.8011631568726962,True
+6629-CZTTH,295,1,Product dissatisfaction,Month-to-month,1,55.7,0.8004582609365168,True
+4658-HCOHW,296,1,Competitor had better devices,Month-to-month,21,102.8,0.8004004949411353,True
+6646-VRFOL,297,1,Competitor had better devices,Month-to-month,53,103.85,0.7993344687022148,True
+4633-MKHYU,298,0,-,Month-to-month,9,88.4,0.7985210229367523,True
+1302-UHBDD,299,0,-,Month-to-month,20,89.95,0.7951663215492231,True
+0946-CLJTI,300,1,Competitor had better devices,Month-to-month,58,98.7,0.7935297854672719,True
+9601-BRXPO,301,1,Service dissatisfaction,Month-to-month,25,104.95,0.7931611368118191,True
+5857-TYBCJ,302,0,-,Month-to-month,44,89.2,0.7929700000701417,True
+3536-IQCTX,303,1,Attitude of support person,Month-to-month,32,85.3,0.7915479147493073,True
+1792-UXAFY,304,1,Service dissatisfaction,Month-to-month,17,89.15,0.790644779586859,True
+6542-LWGXJ,305,0,-,Month-to-month,3,25.0,0.7894442787158086,True
+8008-HAWED,306,1,Competitor had better devices,Month-to-month,14,50.75,0.7886470026029551,True
+0067-DKWBL,307,1,Competitor had better devices,Month-to-month,2,49.25,0.7884862421131262,True
+3453-RTHJQ,308,0,-,Month-to-month,6,69.1,0.7884017871715603,True
+7129-ACFOG,309,0,-,Month-to-month,5,53.8,0.7881950781287247,True
+0947-MUGVO,310,1,Competitor offered higher download speeds,Month-to-month,20,73.65,0.7879909919629459,True
+9898-KZQDZ,311,1,Competitor offered higher download speeds,Month-to-month,40,94.55,0.7878957435854973,True
+5692-ICXLW,312,0,-,Month-to-month,31,90.7,0.7878572573396472,True
+9866-QEVEE,313,1,Competitor offered higher download speeds,Month-to-month,19,86.0,0.7876459172250673,True
+6821-BUXUX,314,1,Attitude of support person,Month-to-month,13,96.65,0.7873484059322958,True
+2386-LAHRK,315,1,Product dissatisfaction,Month-to-month,1,53.5,0.7860315654113109,True
+1571-SAVHK,316,1,Competitor had better devices,Month-to-month,12,99.95,0.7849407092751383,True
+7534-BFESC,317,1,Price too high,Month-to-month,24,76.1,0.7847417940850059,True
+2956-GGUCQ,318,1,Attitude of service provider,Month-to-month,24,78.85,0.7840000875928137,True
+4690-PKDQG,319,0,-,Month-to-month,42,95.55,0.7827495140082339,True
+4536-PLEQY,320,0,-,Month-to-month,12,85.05,0.7825991146559541,True
+6017-PPLPX,321,1,Attitude of support person,Month-to-month,20,70.45,0.7823194309832967,True
+5959-BELXA,322,1,Price too high,Month-to-month,32,96.15,0.7818492260917581,True
+3640-PHQXK,323,1,Service dissatisfaction,Month-to-month,31,89.9,0.7808308465330476,True
+8182-BJDSI,324,1,Attitude of service provider,Month-to-month,28,89.95,0.7806315003790866,True
+5759-RCVCB,325,1,Attitude of service provider,Month-to-month,3,35.2,0.780158774913957,True
+6400-BWQKW,326,1,Network reliability,Month-to-month,6,79.05,0.7792643386808384,True
+1907-UBQFC,327,1,Price too high,Month-to-month,10,72.85,0.7792567978923732,True
+7470-MCQTK,328,1,Attitude of support person,Month-to-month,13,48.75,0.7788998443171276,True
+8270-RKSAP,329,0,-,Month-to-month,9,70.5,0.7788871597874047,True
+9269-CQOOL,330,1,Competitor offered higher download speeds,Month-to-month,3,54.7,0.7786013460373843,True
+7693-LCKZL,331,1,Attitude of service provider,Month-to-month,5,80.15,0.7775363702114833,True
+2637-FKFSY,332,0,-,Month-to-month,3,46.1,0.7773406909811122,True
+7404-JLKQG,333,0,-,Month-to-month,3,57.55,0.7762843935576094,True
+8784-CGILN,334,1,Product dissatisfaction,Month-to-month,18,99.85,0.7755854665658781,True
+5173-WXOQV,335,0,-,Month-to-month,2,64.2,0.77468116385783,True
+5271-DBYSJ,336,0,-,Month-to-month,11,79.15,0.7745180278435356,True
+4659-NZRUF,337,1,Long distance charges,Month-to-month,19,95.15,0.772367560480881,True
+8720-RQSBJ,338,0,-,Month-to-month,1,44.0,0.7720742158479016,True
+8364-TRMMK,339,1,Lack of self-service on Website,Month-to-month,3,50.65,0.7709866589332279,True
+8854-CCVSQ,340,1,Competitor offered more data,Month-to-month,18,80.65,0.7709780022312127,True
+7912-SYRQT,341,1,Competitor offered more data,Month-to-month,7,75.1,0.7700223632193532,True
+9574-RKJIF,342,1,Competitor offered higher download speeds,Month-to-month,30,94.4,0.7698071185129299,True
+0428-IKYCP,343,0,-,Month-to-month,22,87.0,0.7695272406339835,True
+6365-MTGZX,344,1,Attitude of support person,Month-to-month,24,96.0,0.7694515009472095,True
+4803-AXVYP,345,1,Service dissatisfaction,Month-to-month,38,99.55,0.7692347804899837,True
+5647-FXOTP,346,0,-,Month-to-month,60,105.9,0.768610612921605,True
+9415-DPEWS,347,1,Competitor offered more data,Month-to-month,18,88.35,0.7668491322071465,True
+1597-LHYNC,348,1,Price too high,Month-to-month,26,95.0,0.7668364728771857,True
+2792-LSHWX,349,0,-,Month-to-month,1,83.4,0.7649771809137531,True
+0682-USIXD,350,0,-,Month-to-month,21,86.05,0.7647798391794554,True
+3096-JRDSO,351,1,Attitude of support person,Month-to-month,27,104.3,0.7642304865906442,True
+1833-TCXKK,352,0,-,Month-to-month,45,107.75,0.7639343805108681,True
+3858-VOBET,353,1,Competitor offered higher download speeds,Month-to-month,23,74.95,0.7636333425404969,False
+8601-QACRS,354,1,Service dissatisfaction,Month-to-month,5,50.6,0.7625912153717512,False
+6650-VJONK,355,0,-,Month-to-month,1,43.85,0.7617666564547795,False
+8167-GJLRN,356,0,-,Month-to-month,3,30.4,0.7616768514768413,False
+0315-LVCRK,357,0,-,Month-to-month,11,84.8,0.7601980076447017,False
+7395-IGJOS,358,1,Competitor made better offer,Month-to-month,17,81.5,0.7598300773879314,False
+1658-TJVOA,359,0,-,Month-to-month,6,74.1,0.7596295538163573,False
+9129-UXERG,360,0,-,Month-to-month,18,103.6,0.7587019952845305,False
+8818-XYFCQ,361,1,Competitor made better offer,Month-to-month,32,99.55,0.7586875807256741,False
+7675-OZCZG,362,1,Competitor made better offer,Month-to-month,3,45.0,0.7584847240216718,False
+1307-ATKGB,363,0,-,Month-to-month,24,89.55,0.7581793815583202,False
+3440-JPSCL,364,1,Competitor offered higher download speeds,Month-to-month,6,99.95,0.7577923227174083,False
+0376-YMCJC,365,1,Competitor offered higher download speeds,Month-to-month,23,90.6,0.7567887511080403,False
+3137-LUPIX,366,0,-,Month-to-month,4,64.4,0.7567022004021572,False
+7279-BUYWN,367,1,Attitude of support person,Month-to-month,41,113.2,0.7557399424023994,False
+6559-PDZLR,368,0,-,Month-to-month,26,98.65,0.7550064747546491,False
+3312-ZWLGF,369,0,-,Month-to-month,29,79.3,0.7549639599464802,False
+1536-HBSWP,370,0,-,Month-to-month,1,49.9,0.7542676563664271,False
+0637-YLETY,371,1,Attitude of service provider,Month-to-month,16,95.6,0.7524881843538792,False
+9278-VZKCD,372,0,-,Month-to-month,52,109.1,0.7521726378206802,False
+1035-IPQPU,373,0,-,Month-to-month,63,103.5,0.7516644906702035,False
+9494-MRNYX,374,0,-,Month-to-month,10,75.05,0.7503486860712392,False
+5552-ZNFSJ,375,1,Don't know,Month-to-month,1,45.3,0.7502171950660934,False
+6204-IEUXJ,376,1,Attitude of service provider,Month-to-month,3,80.1,0.7495387985611955,False
+9093-FPDLG,377,0,-,Month-to-month,11,94.2,0.7487095411710355,False
+2582-FFFZR,378,0,-,Month-to-month,22,50.6,0.7484881371506872,False
+2108-XWMPY,379,1,Moved,Month-to-month,3,35.45,0.7473638617585475,False
+0082-OQIQY,380,0,-,Month-to-month,29,94.2,0.7448999755035477,False
+6243-OZGFH,381,0,-,Month-to-month,23,44.95,0.7448813343594914,False
+0177-PXBAT,382,0,-,Month-to-month,33,109.9,0.744761075384683,False
+1013-QCWAM,383,0,-,Month-to-month,66,100.8,0.7447068860348725,False
+8785-CJSHH,384,0,-,Month-to-month,60,99.8,0.7440999127721095,False
+0114-PEGZZ,385,0,-,Month-to-month,33,107.55,0.7426066713748944,False
+1612-EOHDH,386,1,Attitude of support person,Month-to-month,1,45.15,0.7425790035048878,False
+5133-POWUA,387,0,-,Month-to-month,1,45.8,0.7420398280941493,False
+0439-IFYUN,388,0,-,Month-to-month,18,74.7,0.741640031475743,False
+3566-HJGPK,389,0,-,Month-to-month,1,45.55,0.7415755265707838,False
+2373-NTKOD,390,0,-,Month-to-month,8,66.25,0.7413811576865434,False
+5908-QMGOE,391,1,Lack of self-service on Website,Month-to-month,15,74.2,0.7411842846703086,False
+3211-ILJTT,392,1,Attitude of service provider,Month-to-month,17,70.4,0.7407540598974898,False
+8950-MTZNV,393,0,-,Month-to-month,1,44.95,0.7404589836474134,False
+8710-YGLWG,394,0,-,Month-to-month,1,44.9,0.7403657971088418,False
+4430-UZIPO,395,1,Competitor offered more data,Month-to-month,3,36.85,0.7400283104880504,False
+0650-BWOZN,396,0,-,Month-to-month,18,73.55,0.7394975894409483,False
+7529-ZDFXI,397,0,-,Month-to-month,57,89.85,0.7393313809690882,False
+5389-FFVKB,398,1,Service dissatisfaction,Month-to-month,32,80.3,0.7375632146360747,False
+3853-LYGAM,399,0,-,Month-to-month,17,95.65,0.7374339173825565,False
+7905-TVXTA,400,0,-,Month-to-month,5,64.35,0.7371960376399216,False
+3884-HCSWG,401,1,Lack of self-service on Website,Month-to-month,17,70.0,0.7368335408702616,False
+6543-CPZMK,402,1,Competitor offered more data,Month-to-month,9,29.95,0.7368267382696189,False
+4505-EXZHB,403,1,Competitor offered more data,Month-to-month,6,74.4,0.7362401622716266,False
+5652-MSDEY,404,0,-,Month-to-month,10,75.75,0.7350385875915177,False
+4391-RESHN,405,1,Attitude of support person,Month-to-month,23,104.05,0.7349588805101672,False
+1100-DDVRV,406,0,-,Month-to-month,17,49.8,0.7348484611237016,False
+9058-CBREO,407,1,Product dissatisfaction,Month-to-month,1,50.55,0.7343967591617514,False
+1769-GRUIK,408,0,-,Month-to-month,18,71.1,0.7343893833048837,False
+7065-YUNRY,409,1,Product dissatisfaction,Month-to-month,1,45.3,0.733577384874174,False
+1928-BXYIV,410,0,-,Month-to-month,1,61.15,0.7333421917779607,False
+5498-TXHLF,411,1,Extra data charges,Month-to-month,34,87.45,0.7332657925458195,False
+5331-RGMTT,412,0,-,Month-to-month,54,99.05,0.7331377056113141,False
+9944-AEXBM,413,0,-,Month-to-month,32,85.65,0.7321115162300709,False
+5606-AMZBO,414,0,-,Month-to-month,10,78.15,0.7317965329969697,False
+9631-XEYKE,415,0,-,Month-to-month,3,50.4,0.7310250061589406,False
+8180-AKMJV,416,0,-,Month-to-month,1,44.55,0.7304237841438497,False
+4360-PNRQB,417,0,-,Month-to-month,18,75.6,0.7303926490812007,False
+2739-CACDQ,418,0,-,Month-to-month,17,82.65,0.7290389061152938,False
+5419-KLXBN,419,1,Competitor offered higher download speeds,Month-to-month,25,89.15,0.728611465978658,False
+3002-WQZWT,420,0,-,Month-to-month,29,74.2,0.7285204529001482,False
+8685-WHQPW,421,1,Attitude of service provider,Month-to-month,22,74.4,0.7283050713492908,False
+5461-QKNTN,422,0,-,Month-to-month,43,94.3,0.7281088672765514,False
+9796-BPKIW,423,0,-,Month-to-month,8,69.95,0.7266965348613069,False
+7641-EUYET,424,1,Product dissatisfaction,Month-to-month,46,100.7,0.72522261937422,False
+2712-SYWAY,425,0,-,Month-to-month,1,25.7,0.7245616109692903,False
+1564-HJUVY,426,0,-,Month-to-month,4,63.75,0.7243311909136754,False
+2683-BPJSO,427,1,Lack of self-service on Website,Month-to-month,29,84.45,0.723935485794501,False
+8468-EHYJA,428,0,-,Month-to-month,57,99.65,0.7228791271964661,False
+8486-AYEQH,429,0,-,Month-to-month,31,76.05,0.7228415198815799,False
+8696-JKZNU,430,1,Don't know,Month-to-month,37,76.25,0.7219255740878062,False
+5533-NHFRF,431,0,-,Month-to-month,7,44.4,0.7211715142096896,False
+9992-UJOEL,432,0,-,Month-to-month,2,50.3,0.7204506152834508,False
+3348-CFRNX,433,1,Lack of affordable download/upload speed,Month-to-month,28,92.35,0.7196825202021261,False
+7030-NJVDP,434,0,-,Month-to-month,24,89.25,0.7188585084614283,False
+9448-REEVD,435,1,Don't know,Month-to-month,1,44.7,0.7186928332498325,False
+6217-TOWGS,436,0,-,Month-to-month,17,75.4,0.7184424914917814,False
+6652-YFFJO,437,0,-,Month-to-month,11,64.9,0.7173729910850586,False
+7579-OOPEC,438,1,Long distance charges,Month-to-month,2,50.15,0.7173377831568235,False
+0952-KMEEH,439,1,Long distance charges,Month-to-month,13,98.15,0.7172436908629078,False
+6304-IJFSQ,440,1,Moved,Month-to-month,3,49.9,0.7149576501275012,False
+2786-GCDPI,441,0,-,Month-to-month,50,104.95,0.7147572981422747,False
+1965-DDBWU,442,1,Competitor made better offer,Month-to-month,16,89.05,0.7145031687177109,False
+0975-VOOVL,443,0,-,Month-to-month,3,29.2,0.7144318923144396,False
+9667-TKTVZ,444,0,-,Month-to-month,2,54.35,0.7137756690958605,False
+8490-BXHEO,445,0,-,Month-to-month,18,80.55,0.7137576856138972,False
+8819-IMISP,446,0,-,Month-to-month,31,80.45,0.712972493648609,False
+0666-UXTJO,447,0,-,Month-to-month,34,85.2,0.7127499146739769,False
+1226-UDFZR,448,1,Network reliability,Month-to-month,2,49.6,0.7111570353933929,False
+8806-EAGWC,449,1,Network reliability,Month-to-month,3,55.15,0.7100161948492854,False
+3005-NFMTA,450,1,Price too high,Month-to-month,55,98.8,0.7094495687556995,False
+7547-EKNFS,451,1,Attitude of service provider,Month-to-month,42,95.25,0.7081256865886731,False
+0295-QVKPB,452,0,-,Month-to-month,5,63.95,0.7073609208151577,False
+1670-SVOWZ,453,1,Competitor offered higher download speeds,Month-to-month,14,89.65,0.7070098383048847,False
+5172-MIGPM,454,0,-,Month-to-month,4,65.55,0.7060251345162705,False
+4546-FOKWR,455,0,-,Month-to-month,16,74.75,0.7031695811778321,False
+1304-BCCFO,456,0,-,Month-to-month,9,70.05,0.7027983632791233,False
+3714-NTNFO,457,0,-,Month-to-month,49,84.5,0.702430264959658,False
+0093-XWZFY,458,1,Competitor had better devices,Month-to-month,40,104.5,0.7004466998902967,False
+1548-FEHVL,459,0,-,Month-to-month,61,106.2,0.6980366241583815,False
+0958-YHXGP,460,0,-,Month-to-month,7,69.9,0.6979769098184012,False
+7130-YXBRO,461,0,-,Month-to-month,48,111.45,0.6970735900642705,False
+2874-YXVVA,462,0,-,Month-to-month,34,105.1,0.6969820522307264,False
+3446-QDSZF,463,0,-,Month-to-month,4,55.5,0.695914909838297,False
+2070-XYMFH,464,0,-,Month-to-month,23,79.35,0.6957527404676779,False
+1550-EENBN,465,0,-,Month-to-month,31,104.35,0.6956783377809946,False
+1689-MRZQR,466,1,Don't know,Month-to-month,34,78.3,0.6952437715415305,False
+3761-FLYZI,467,0,-,Month-to-month,65,108.8,0.6929347635937533,False
+5590-YRFJT,468,1,Don't know,Month-to-month,20,24.45,0.6925438712871319,False
+6710-HSJRD,469,0,-,Month-to-month,61,114.1,0.6907349001572237,False
+2360-RDGRO,470,0,-,Month-to-month,65,104.25,0.6894336386803099,False
+5999-LCXAO,471,0,-,Month-to-month,1,29.9,0.6885642749294999,False
+7813-ZGGAW,472,0,-,Month-to-month,31,96.6,0.6862940189492354,False
+8757-TFHHJ,473,0,-,Month-to-month,1,49.8,0.6855580627283651,False
+8988-ECPJR,474,1,Product dissatisfaction,Month-to-month,34,79.6,0.6854114533748746,False
+1624-WOIWJ,475,1,Competitor had better devices,Month-to-month,10,84.7,0.6844397914335303,False
+5153-RTHKF,476,0,-,Month-to-month,34,85.35,0.6843308892548127,False
+1101-SSWAG,477,0,-,Month-to-month,15,51.1,0.6835154294134262,False
+1436-ZMJAN,478,0,-,Month-to-month,10,67.8,0.6830674913739249,False
+7901-HXJVA,479,0,-,Month-to-month,14,76.45,0.6827700215898885,False
+3943-KDREE,480,1,Don't know,Month-to-month,26,74.95,0.6825560405998381,False
+8654-DHAOW,481,0,-,Month-to-month,2,54.15,0.6825517556679508,False
+2640-PMGFL,482,1,Lack of affordable download/upload speed,Month-to-month,27,79.5,0.6823688317943819,False
+1122-JWTJW,483,1,Competitor had better devices,Month-to-month,1,70.65,0.6821332845029473,False
+2105-PHWON,484,0,-,Month-to-month,33,95.0,0.6809899829603858,False
+6845-RGTYS,485,1,Product dissatisfaction,Month-to-month,47,98.75,0.6806106831895373,False
+4503-BDXBD,486,1,Attitude of support person,Month-to-month,11,74.95,0.679252055015611,False
+6656-JWRQX,487,0,-,Month-to-month,1,30.55,0.6786679451512355,False
+3207-OYBWH,488,1,Attitude of support person,Month-to-month,57,95.25,0.676415754390039,False
+1644-IRKSF,489,1,Attitude of support person,One year,33,93.8,0.6758999503747758,False
+1421-HCERK,490,0,-,Month-to-month,30,105.7,0.6754569182763539,False
+8212-DJRCH,491,0,-,Month-to-month,5,90.35,0.6752769893934223,False
+1794-HBQTJ,492,1,Poor expertise of phone support,Month-to-month,1,48.6,0.6745633097731334,False
+4523-WXCEF,493,1,Service dissatisfaction,Month-to-month,59,101.1,0.6743639545603721,False
+6173-GOLSU,494,0,-,Month-to-month,67,94.65,0.6736738271614614,False
+1215-VFYVK,495,0,-,Month-to-month,4,48.25,0.6726190508516817,False
+8519-QJGJD,496,1,Attitude of service provider,Month-to-month,14,75.35,0.6719382508007822,False
+6635-CPNUN,497,0,-,Month-to-month,28,96.6,0.6717076437658187,False
+3023-GFLBR,498,1,Attitude of service provider,Month-to-month,33,86.15,0.671600244638629,False
+7410-YTJIK,499,1,Lack of self-service on Website,Month-to-month,7,75.45,0.6708192514266955,False
+3195-TQDZX,500,0,-,Month-to-month,3,20.25,0.6706567714590214,False
+9643-AVVWI,501,0,-,Month-to-month,3,80.0,0.6687725331443357,False
+6862-CQUMB,502,0,-,Month-to-month,37,96.1,0.668408148849402,False
+1763-WQFUK,503,0,-,Month-to-month,3,50.5,0.6674103207911936,False
+8740-XLHDR,504,1,Network reliability,Month-to-month,5,43.25,0.6672133805209025,False
+2615-YVMYX,505,0,-,Month-to-month,71,107.5,0.6664515154420246,False
+9732-EQMWY,506,0,-,Month-to-month,49,99.4,0.6658021414682739,False
+3677-TNKIO,507,1,Don't know,Month-to-month,14,71.0,0.6630487654897737,False
+1346-UFHAX,508,0,-,Month-to-month,13,80.0,0.6628225647280371,False
+3656-TKRVZ,509,1,Competitor offered more data,Month-to-month,3,55.35,0.6624891208100572,False
+7277-OZCGZ,510,0,-,Month-to-month,22,89.05,0.6611308690346948,False
+5858-EAFCZ,511,0,-,Month-to-month,1,44.45,0.661115472423971,False
+0778-NELLA,512,1,Competitor offered higher download speeds,Month-to-month,9,34.7,0.6609762565415606,False
+1427-VERSM,513,0,-,Month-to-month,56,98.7,0.6606441093816728,False
+4948-WBBKL,514,0,-,Month-to-month,36,74.9,0.6605210878040975,False
+6259-WJQLC,515,0,-,Month-to-month,32,81.1,0.6604089179456615,False
+9305-CDSKC,516,1,Moved,Month-to-month,8,99.65,0.660325563668714,False
+2187-LZGPL,517,1,Attitude of service provider,Month-to-month,7,40.1,0.6601439168551736,False
+3043-TYBNO,518,0,-,Month-to-month,3,60.65,0.6584163508486162,False
+0829-XXPLX,519,0,-,Month-to-month,20,89.4,0.6577399035528353,False
+2657-VPXTA,520,0,-,Month-to-month,10,88.85,0.6576793591332086,False
+9793-WECQC,521,0,-,Month-to-month,23,95.3,0.657477458748229,False
+0257-ZESQC,522,1,Lack of self-service on Website,Month-to-month,27,75.2,0.6572237271583584,False
+7054-LGEQW,523,1,Attitude of support person,Month-to-month,1,45.95,0.6556377147743925,False
+1842-EZJMK,524,1,Lack of self-service on Website,Month-to-month,50,103.7,0.6552042163053305,False
+4471-KXAUH,525,1,Attitude of service provider,Month-to-month,42,84.3,0.6549713721341989,False
+2672-OJQZP,526,0,-,Month-to-month,1,44.75,0.6530058194387789,False
+6537-QLGEX,527,0,-,Month-to-month,16,38.9,0.6528868554241612,False
+4840-ORQXB,528,0,-,Month-to-month,56,104.75,0.6527006158484956,False
+3932-IJWDZ,529,0,-,Month-to-month,45,103.65,0.6524012106334073,False
+0415-MOSGF,530,1,Attitude of support person,Month-to-month,1,44.4,0.6522364091466334,False
+4462-CYWMH,531,0,-,Month-to-month,62,89.8,0.6518733690538757,False
+1658-BYGOY,532,1,Competitor made better offer,Month-to-month,18,95.45,0.6507707939737449,False
+2189-UXTKY,533,1,Product dissatisfaction,Month-to-month,22,79.2,0.6502029240604382,False
+8749-JMNKX,534,1,Limited range of services,Month-to-month,51,93.8,0.650032933891446,False
+5712-AHQNN,535,0,-,Month-to-month,43,91.65,0.6493281977010419,False
+1481-ZUWZA,536,1,Service dissatisfaction,Month-to-month,28,94.5,0.6486612795117103,False
+7967-HYCDE,537,0,-,Month-to-month,8,70.7,0.6480705645773547,False
+9681-KYGYB,538,0,-,Month-to-month,49,88.2,0.6478726770892635,False
+4625-EWPTF,539,1,Competitor had better devices,Month-to-month,8,30.45,0.6467260968215772,False
+9693-XMUOB,540,0,-,Month-to-month,59,50.25,0.6465863200067119,False
+2403-BCASL,541,1,Don't know,One year,41,111.95,0.6463503618971207,False
+7878-JGDKK,542,0,-,Month-to-month,4,44.55,0.6455505489962051,False
+6905-NIQIN,543,1,Don't know,Month-to-month,1,50.65,0.6452186110062834,False
+1095-JUDTC,544,1,Competitor offered higher download speeds,Month-to-month,47,95.05,0.6420769390484451,False
+2479-BRAMR,545,1,Competitor offered more data,Month-to-month,41,83.75,0.6420246496468592,False
+8450-UYIBU,546,0,-,Month-to-month,35,39.85,0.6412094709246792,False
+6985-HAYWX,547,0,-,Month-to-month,26,79.3,0.6406718164464998,False
+2565-JSLRY,548,1,Price too high,Month-to-month,1,24.05,0.638034538455648,False
+0730-KOAVE,549,0,-,Month-to-month,30,94.3,0.637551628291912,False
+0422-UXFAP,550,0,-,One year,51,98.85,0.6367733307659769,False
+0786-VSSUD,551,1,Attitude of service provider,Month-to-month,16,39.0,0.6360139537653133,False
+9474-PHLYD,552,1,Network reliability,Month-to-month,15,59.45,0.6357185123360073,False
+6637-KYRCV,553,0,-,Month-to-month,5,30.5,0.6348654392417078,False
+9373-WSLOY,554,0,-,Month-to-month,33,50.0,0.6343657786801843,False
+5813-UECBU,555,1,Competitor made better offer,Month-to-month,33,83.85,0.6314047455710761,False
+2988-GBIVW,556,0,-,Month-to-month,70,90.85,0.6305108143002396,False
+1550-LOAHA,557,1,Limited range of services,Month-to-month,32,84.15,0.6287463986411638,False
+2626-URJFX,558,1,Network reliability,Month-to-month,4,50.9,0.6287236078851748,False
+3838-OZURD,559,1,Competitor offered higher download speeds,Month-to-month,66,105.0,0.6286186924558173,False
+1582-RAFML,560,1,Competitor had better devices,Month-to-month,1,60.1,0.6285831582439454,False
+6038-GCYEC,561,1,Competitor had better devices,Month-to-month,24,54.15,0.6262487449128408,False
+9948-YPTDG,562,1,Competitor offered more data,Month-to-month,38,79.45,0.6250056410416162,False
+4989-LIXVT,563,0,-,Month-to-month,68,95.9,0.6249338792396747,False
+9169-BSVIN,564,0,-,Month-to-month,12,74.75,0.6237580637867542,False
+7145-FEJWU,565,0,-,Month-to-month,12,105.3,0.621588438702888,False
+8096-LOIST,566,0,-,Month-to-month,19,56.2,0.6204199530013342,False
+4983-CLMLV,567,0,-,Month-to-month,52,102.7,0.6201313751267042,False
+3094-JOJAI,568,0,-,Month-to-month,18,74.15,0.6183655922054951,False
+2108-YKQTY,569,1,Don't know,Month-to-month,4,50.7,0.6180236847179809,False
+8614-VGMMV,570,1,Competitor offered higher download speeds,Month-to-month,15,49.1,0.6164446764173063,False
+5302-BDJNT,571,0,-,Month-to-month,35,95.5,0.6153067335774024,False
+6825-UYPFK,572,1,Network reliability,Month-to-month,23,75.6,0.6145098178598143,False
+5002-GCQFH,573,0,-,Month-to-month,49,93.85,0.6134625516988133,False
+8755-IWJHN,574,0,-,Month-to-month,69,95.35,0.6128989011487377,False
+5394-SVGJV,575,1,Competitor made better offer,Month-to-month,37,98.8,0.6111536430305915,False
+6313-GIDIT,576,1,Price too high,Month-to-month,53,54.45,0.6104366460111597,False
+6818-WOBHJ,577,1,Network reliability,Month-to-month,68,89.6,0.6099358575201852,False
+3058-WQDRE,578,0,-,Month-to-month,13,25.15,0.6096180444292179,False
+4950-BDEUX,579,0,-,Month-to-month,35,49.2,0.6079287672589564,False
+0237-YFUTL,580,0,-,Month-to-month,50,109.65,0.6059503528278192,False
+3815-SLMEF,581,1,Competitor offered higher download speeds,Month-to-month,3,34.25,0.6058544722290051,False
+8695-WDYEA,582,0,-,Month-to-month,1,51.25,0.6051711596343048,False
+2883-ILGWO,583,0,-,Month-to-month,57,104.9,0.604553059107329,False
+1465-LNTLJ,584,0,-,Month-to-month,8,64.4,0.6044599317438221,False
+9547-ITEFG,585,0,-,Month-to-month,9,102.6,0.6041410191024951,False
+0348-SDKOL,586,1,Moved,Month-to-month,58,102.1,0.6025822450418096,False
+4695-VADHF,587,1,Competitor had better devices,Month-to-month,18,57.45,0.600486627636063,False
+3522-CDKHF,588,0,-,Month-to-month,32,75.5,0.5998384060924461,False
+7271-AJDTL,589,0,-,Month-to-month,55,94.45,0.5996722471789236,False
+8158-WPEZG,590,0,-,Month-to-month,11,35.65,0.5994173823070104,False
+8217-QYOHV,591,0,-,Month-to-month,5,55.75,0.5971942737844567,False
+3571-RFHAR,592,1,Attitude of support person,Month-to-month,65,109.15,0.5954464163023736,False
+8903-XEBGX,593,0,-,Month-to-month,2,55.3,0.5940456838627535,False
+5143-WMWOG,594,1,Attitude of support person,Month-to-month,1,19.95,0.5937470310494867,False
+1025-FALIX,595,0,-,Month-to-month,26,69.05,0.5936795857679784,False
+7617-EYGLW,596,0,-,Month-to-month,1,19.45,0.5925770195377734,False
+6234-PFPXL,597,0,-,Month-to-month,22,95.9,0.5918040035604076,False
+7159-FVYPK,598,0,-,Month-to-month,3,69.15,0.5914923530435163,False
+1049-FYSYG,599,0,-,Month-to-month,17,35.65,0.5912241721698612,False
+8773-HHUOZ,600,1,Competitor offered higher download speeds,Month-to-month,17,64.7,0.5907016854802662,False
+4570-QHXHL,601,0,-,Month-to-month,9,43.75,0.590583444621332,False
+8033-VCZGH,602,0,-,One year,50,103.95,0.5904499742754749,False
+4067-HLYQI,603,0,-,Month-to-month,33,70.4,0.5898042448329448,False
+6629-LADHQ,604,0,-,Month-to-month,2,50.95,0.5895284117810435,False
+2257-BOVXD,605,0,-,Month-to-month,14,66.6,0.5892925408291736,False
+9584-EXCDZ,606,0,-,Month-to-month,17,70.5,0.5891920790869576,False
+2826-DXLQO,607,0,-,Month-to-month,7,29.8,0.5882667360042187,False
+3577-AMVUX,608,0,-,Month-to-month,1,55.05,0.5873191388039325,False
+8149-AIQCG,609,0,-,Month-to-month,39,73.15,0.5869686959000749,False
+9356-AXGMP,610,0,-,One year,38,110.7,0.5868293240908637,False
+3898-GUYTS,611,0,-,Month-to-month,45,97.05,0.5849440729473372,False
+0727-BMPLR,612,1,Competitor offered higher download speeds,One year,55,100.0,0.5833162806673011,False
+5996-DAOQL,613,0,-,Month-to-month,1,20.45,0.5832924499391552,False
+2081-KJSQF,614,0,-,Month-to-month,1,20.25,0.58282099164058,False
+7850-VWJUU,615,0,-,Month-to-month,23,75.0,0.5824769605724937,False
+1000-AJSLD,616,1,Competitor made better offer,Month-to-month,1,20.1,0.5824672984671457,False
+8992-CEUEN,617,0,-,Month-to-month,1,18.85,0.5817376778956286,False
+7989-CHGTL,618,1,Product dissatisfaction,Month-to-month,1,19.6,0.5812877102705672,False
+1725-MIMXW,619,1,Poor expertise of phone support,Month-to-month,1,19.45,0.5809336518519244,False
+3521-SYVOR,620,1,Product dissatisfaction,Month-to-month,37,64.75,0.5807707208184566,False
+5201-USSQZ,621,0,-,Month-to-month,26,85.9,0.5795197516633422,False
+7248-VZQLC,622,1,Price too high,Month-to-month,47,85.2,0.5794876903433527,False
+2832-SCUCO,623,0,-,Month-to-month,2,19.9,0.5785585097507682,False
+7729-JTEEC,624,0,-,Month-to-month,2,44.5,0.5782325070741553,False
+8445-DNBAE,625,0,-,Month-to-month,1,50.05,0.5773995161335468,False
+7928-VJYAB,626,0,-,Month-to-month,11,90.6,0.5769749241157857,False
+7927-AUXBZ,627,1,Attitude of support person,Month-to-month,30,85.15,0.5768612021409247,False
+8807-ARQET,628,0,-,Month-to-month,41,40.35,0.5765136781046271,False
+1559-DTODC,629,0,-,Month-to-month,19,25.15,0.5759830935519371,False
+6807-SIWJI,630,0,-,One year,38,104.85,0.5758866343827963,False
+7734-DBOAI,631,1,Attitude of support person,Month-to-month,1,40.1,0.5756472985683219,False
+2876-VBBBL,632,1,Network reliability,Month-to-month,1,20.25,0.5733334285055562,False
+0670-KDOMA,633,0,-,Month-to-month,1,20.25,0.5733334285055562,False
+4897-QSUYC,634,1,Attitude of support person,Month-to-month,1,20.15,0.5730962079743418,False
+2303-PJYHN,635,0,-,Month-to-month,2,19.85,0.5729534236621191,False
+5482-NUPNA,636,1,Competitor had better devices,Month-to-month,4,60.4,0.5727084099981489,False
+0268-QKIWO,637,1,Lack of affordable download/upload speed,Month-to-month,3,19.75,0.5725274367453734,False
+0481-SUMCB,638,0,-,One year,45,102.15,0.5722476885698718,False
+2279-AXJJK,639,0,-,Month-to-month,52,95.65,0.5721768255784326,False
+8910-LEDAG,640,0,-,Month-to-month,34,71.55,0.5720510224738659,False
+4588-YBNIB,641,1,Price too high,Month-to-month,1,19.6,0.571790896708351,False
+1622-HSHSF,642,0,-,Month-to-month,1,19.55,0.5716721822029918,False
+8065-BVEPF,643,0,-,Month-to-month,65,99.1,0.5712589509070637,False
+6121-VZNQB,644,1,Competitor made better offer,Month-to-month,1,19.1,0.5706033819418358,False
+4905-JEFDW,645,1,Competitor offered higher download speeds,One year,11,41.6,0.5705159386970985,False
+6942-LBFDP,646,0,-,Month-to-month,2,20.55,0.5683543192446829,False
+4324-AHJKS,647,0,-,Month-to-month,5,55.8,0.5674832654202462,False
+2933-FILNV,648,1,Lack of self-service on Website,Month-to-month,2,24.4,0.5672745192181173,False
+8887-IPQNC,649,0,-,Month-to-month,7,44.25,0.5672231142058438,False
+5144-PQCDZ,650,0,-,Month-to-month,4,19.95,0.5650675795389617,False
+0690-SRQID,651,0,-,Month-to-month,4,19.65,0.5643525057235586,False
+0618-XWMSS,652,1,Long distance charges,Month-to-month,28,74.9,0.5633359403702911,False
+5438-QMDDL,653,0,-,Month-to-month,19,59.8,0.5618749048843297,False
+1784-EZDKJ,654,0,-,One year,51,106.8,0.5618110189440175,False
+9079-YEXQJ,655,1,Product dissatisfaction,Month-to-month,54,111.1,0.5614054700832692,False
+4188-FRABG,656,0,-,Month-to-month,57,103.05,0.5611004853894633,False
+3179-GBRWV,657,0,-,Month-to-month,21,64.95,0.5601063586709675,False
+1442-BQPVU,658,0,-,Month-to-month,13,29.15,0.5593719270143829,False
+1935-IMVBB,659,0,-,Month-to-month,56,89.7,0.5590872074880118,False
+1480-IVEVR,660,0,-,One year,35,81.6,0.5578945548496661,False
+8399-YNDCH,661,1,Attitude of service provider,Month-to-month,21,60.05,0.5572038625293715,False
+3419-SNJJD,662,1,Competitor offered higher download speeds,Month-to-month,65,105.25,0.5565983162975108,False
+1871-MOWRM,663,1,Competitor offered more data,Month-to-month,12,80.85,0.55621018354537,False
+4010-YLMVT,664,0,-,Month-to-month,56,106.6,0.5525436775234357,False
+6641-XRPSU,665,1,Competitor offered more data,Month-to-month,34,70.0,0.5504626806979848,False
+4088-YLDSU,666,1,Competitor had better devices,One year,55,104.15,0.5497189620437176,False
+1215-FIGMP,667,0,-,Month-to-month,60,89.9,0.5496036509208426,False
+1047-NNCBF,668,0,-,Month-to-month,20,70.55,0.5490435165878155,False
+7326-RIGQZ,669,0,-,Month-to-month,6,69.8,0.5482519125798853,False
+8728-SKJLR,670,0,-,Month-to-month,41,74.25,0.5480683236753568,False
+9489-UTFKA,671,0,-,Month-to-month,8,60.9,0.548042161707013,False
+0471-ARVMX,672,0,-,One year,62,104.85,0.547294246585798,False
+4132-POCZS,673,0,-,Month-to-month,52,39.9,0.5465384493226992,False
+0311-QYWSS,674,0,-,Month-to-month,6,49.45,0.5459208026948729,False
+5188-HGMLP,675,0,-,Month-to-month,54,74.0,0.5444927016089455,False
+3756-VNWDH,676,0,-,One year,65,100.75,0.5444170665813319,False
+8242-JSVBO,677,0,-,Month-to-month,7,44.65,0.5403900991679073,False
+3714-JTVOV,678,1,Competitor offered higher download speeds,Month-to-month,42,74.15,0.5396059561808629,False
+2623-DRYAM,679,0,-,One year,70,101.75,0.5369494122032645,False
+3606-SBKRY,680,0,-,One year,31,50.05,0.5343921426790733,False
+8705-DWKTI,681,0,-,Month-to-month,52,83.8,0.5336151549829292,False
+8746-OQQRW,682,0,-,Month-to-month,4,25.25,0.5333356442499037,False
+6300-BWMJX,683,0,-,Month-to-month,59,93.35,0.5320597361056604,False
+4791-QRGMF,684,1,Competitor offered more data,One year,59,99.5,0.5305023802272576,False
+6397-JNZZG,685,1,Competitor offered higher download speeds,Month-to-month,43,55.55,0.5304738968003754,False
+5702-SKUOB,686,0,-,Month-to-month,4,19.6,0.5300435787751211,False
+9779-DPNEJ,687,0,-,Month-to-month,22,80.15,0.5299386991939345,False
+9277-JOOMO,688,0,-,Month-to-month,3,24.6,0.52786394656696,False
+5027-XWQHA,689,1,Network reliability,Month-to-month,6,44.75,0.5273321295777408,False
+9971-ZWPBF,690,0,-,Month-to-month,34,108.9,0.5271597122487656,False
+0326-VDYXE,691,0,-,One year,70,97.65,0.5270513000975027,False
+0898-XCGTF,692,0,-,One year,61,96.5,0.526364233723926,False
+1349-WXNGG,693,1,Attitude of support person,Month-to-month,1,20.05,0.5204605379911189,False
+3717-OFRTN,694,0,-,Month-to-month,1,19.75,0.5197344579501146,False
+1958-RNRKS,695,0,-,Month-to-month,30,49.9,0.5183656674757445,False
+2018-PZKMU,696,0,-,Month-to-month,9,103.1,0.5149663200450163,False
+3584-WKTTW,697,0,-,One year,51,111.55,0.5142655847916416,False
+3511-APPBJ,698,0,-,One year,23,99.95,0.5126366379587852,False
+6576-FBXOJ,699,0,-,One year,17,54.6,0.5122042215562195,False
+7876-BEUTG,700,0,-,Month-to-month,15,48.8,0.512076653773629,False
+3009-JWMPU,701,1,Attitude of service provider,One year,62,96.75,0.5120618458644008,False
+4080-OGPJL,702,1,Don't know,Month-to-month,8,71.15,0.5114738443764545,False
+5402-HTOTQ,703,0,-,Month-to-month,16,55.3,0.5111809860041053,False
+2654-VBVPB,704,0,-,Month-to-month,1,19.9,0.5103818291738955,False
+2669-QVCRG,705,0,-,Month-to-month,41,81.3,0.5094891496666163,False
+3707-LRWZD,706,1,Moved,One year,32,84.05,0.5075908265844009,False
+8495-LJDFO,707,0,-,Month-to-month,64,108.95,0.5066024255940904,False
+1091-SOZGA,708,0,-,One year,56,99.8,0.5055916665471486,False
+8627-ZYGSZ,709,0,-,One year,47,78.9,0.5054872351700156,False
+2219-MVUSO,710,1,Don't know,Month-to-month,8,45.15,0.5047066929353458,False
+4439-YRNVD,711,0,-,Month-to-month,10,36.25,0.5044878082086295,False
+0899-WZRSD,712,0,-,Month-to-month,56,105.35,0.504406787421728,False
+3657-COGMW,713,0,-,Month-to-month,52,108.1,0.5042847717127421,False
+8800-ZKRFW,714,0,-,Month-to-month,30,107.5,0.5040773259813721,False
+6410-LEFEN,715,1,Product dissatisfaction,Month-to-month,9,45.15,0.5011788044704715,False
+5154-VEKBL,716,1,Competitor offered higher download speeds,Month-to-month,9,58.5,0.5010879664225043,False
+4338-EYCER,717,0,-,Month-to-month,21,54.6,0.5009721987180804,False
+1689-YQBYY,718,0,-,Month-to-month,12,76.6,0.5001951717399197,False
+6142-VSJQO,719,1,Attitude of support person,Month-to-month,1,44.35,0.49996045402212946,False
+5423-BHIXO,720,0,-,Month-to-month,32,54.2,0.499666074142251,False
+3675-EQOZA,721,0,-,Month-to-month,5,20.65,0.4986928182822369,False
+3589-PPVKW,722,0,-,Month-to-month,9,44.4,0.4970803110002555,False
+6728-VOIFY,723,0,-,One year,63,96.0,0.4969913760416246,False
+3528-HFRIQ,724,0,-,Month-to-month,71,52.3,0.49690791619674585,False
+3167-SNQPL,725,0,-,Month-to-month,38,101.15,0.4958961423370781,False
+1855-CFULU,726,0,-,Month-to-month,4,20.05,0.49537053224506933,False
+2616-UUTFK,727,0,-,Month-to-month,33,72.75,0.4938876545870776,False
+1335-HQMKX,728,0,-,One year,72,101.35,0.49185574407609833,False
+5939-XAIXZ,729,0,-,Month-to-month,19,56.1,0.49180482583603297,False
+4013-GUXND,730,0,-,Month-to-month,1,20.8,0.4911159002633539,False
+5136-GFPMB,731,0,-,Month-to-month,54,89.4,0.4907239275722628,False
+3976-NLDEZ,732,0,-,Month-to-month,1,20.6,0.49063122506621004,False
+7776-QWNFX,733,1,Attitude of support person,Month-to-month,30,50.4,0.4904975439758946,False
+3590-TCXTB,734,0,-,Month-to-month,1,20.35,0.49002540594348476,False
+9122-UMROB,735,0,-,Month-to-month,1,20.3,0.4899042455776856,False
+2676-ISHSF,736,0,-,Month-to-month,1,20.3,0.4899042455776856,False
+2810-FTLEM,737,1,Competitor offered higher download speeds,Month-to-month,16,50.15,0.4896648105072569,False
+3247-MHJKM,738,0,-,Month-to-month,1,20.2,0.4896619284186219,False
+6380-ARCEH,739,0,-,Month-to-month,1,20.2,0.4896619284186219,False
+1066-JKSGK,740,1,Competitor made better offer,Month-to-month,1,20.15,0.48954077165380194,False
+1934-SJVJK,741,1,Competitor had better devices,Month-to-month,1,20.15,0.48954077165380194,False
+7096-UCLNH,742,0,-,Month-to-month,1,20.05,0.48929846182469344,False
+4892-VLANZ,743,1,Don't know,Month-to-month,1,19.8,0.4886927095019553,False
+7239-HZZCX,744,1,Competitor made better offer,Month-to-month,1,19.75,0.48857156296544846,False
+4081-DYXAV,745,1,Competitor offered higher download speeds,One year,19,44.85,0.4885408862657062,False
+0856-NAOES,746,0,-,Month-to-month,6,60.9,0.4884357943069962,False
+7103-IPXPJ,747,0,-,One year,50,99.4,0.48834141559269445,False
+6141-OOXUQ,748,1,Service dissatisfaction,Month-to-month,1,19.65,0.4883292739342129,False
+1205-WNWPJ,749,1,Moved,Month-to-month,7,59.5,0.4882535070260365,False
+1029-QFBEN,750,1,Competitor offered more data,Month-to-month,1,19.55,0.48808699038678494,False
+3237-AJGEH,751,1,Don't know,Month-to-month,3,31.0,0.4880760245578002,False
+3927-NLNRY,752,1,Moved,One year,53,94.25,0.48592214700712166,False
+3874-EQOEP,753,1,Poor expertise of phone support,Month-to-month,7,95.0,0.48556469959014237,False
+5067-DGXLL,754,0,-,Month-to-month,2,20.25,0.4839787342904587,False
+0447-BEMNG,755,1,Price too high,Month-to-month,48,45.3,0.4839007837598327,False
+0188-GWFLE,756,0,-,Month-to-month,2,20.05,0.48349441051705816,False
+9700-ZCLOT,757,0,-,Month-to-month,2,20.0,0.4833733343828531,False
+4320-QMLLA,758,0,-,Month-to-month,7,54.85,0.48270369540450353,False
+5624-BQSSA,759,1,Attitude of support person,Month-to-month,1,20.95,0.48176166718404884,False
+0426-TIRNE,760,1,Limited range of services,Month-to-month,1,20.9,0.4816406203395885,False
+2002-MZHWP,761,1,Lack of self-service on Website,Month-to-month,1,20.5,0.4806723243514359,False
+9753-OYLBX,762,0,-,Month-to-month,1,20.5,0.4806723243514359,False
+2592-YKDIF,763,0,-,Month-to-month,1,20.35,0.4803092503925364,False
+3566-VVORZ,764,0,-,Month-to-month,12,45.9,0.47996678904243845,False
+3900-AQPHZ,765,1,Competitor offered higher download speeds,Month-to-month,1,19.9,0.4792201548240156,False
+2475-MROZF,766,0,-,Month-to-month,30,95.0,0.47921565195583776,False
+8952-WCVCD,767,0,-,One year,41,104.45,0.47910847577076643,False
+6124-ACRHJ,768,0,-,Month-to-month,1,19.75,0.478857166344327,False
+0970-QXPXW,769,0,-,Month-to-month,1,19.65,0.47861518640368034,False
+8605-ITULD,770,0,-,Month-to-month,1,19.55,0.47837321649835624,False
+6572-ADKRS,771,0,-,Month-to-month,46,74.8,0.47784688389767455,False
+2542-HYGIQ,772,0,-,Month-to-month,1,19.95,0.4771445820877588,False
+5802-ADBRC,773,0,-,One year,50,104.4,0.47702359955461987,False
+2220-IAHLS,774,0,-,Month-to-month,1,19.4,0.47581423219834357,False
+3858-XHYJO,775,0,-,One year,40,105.75,0.47574889607222254,False
+8006-PYCSW,776,0,-,Month-to-month,2,20.1,0.4739083214096256,False
+9367-OIUXP,777,0,-,Month-to-month,4,20.7,0.47347223098880414,False
+4945-RVMTE,778,0,-,Month-to-month,28,59.55,0.47266284312413,False
+2308-STERM,779,0,-,Month-to-month,2,19.4,0.47221631979103923,False
+0872-JCPIB,780,0,-,Month-to-month,17,65.75,0.4710296360591792,False
+9770-LXDBK,781,0,-,Month-to-month,3,20.4,0.4688438568541626,False
+1134-YWTYF,782,0,-,Month-to-month,27,53.8,0.4678219550986474,False
+0222-CNVPT,783,0,-,Month-to-month,52,48.8,0.46695751464128105,False
+2439-QKJUL,784,0,-,Month-to-month,5,20.25,0.46659782174984865,False
+3806-YAZOV,785,0,-,Month-to-month,3,18.8,0.4649821671207659,False
+2159-TURXX,786,0,-,Month-to-month,5,20.05,0.4639252104860451,False
+5882-CMAZQ,787,0,-,Month-to-month,5,34.25,0.4638288740262257,False
+2676-OXPPQ,788,0,-,Month-to-month,6,55.7,0.46377518237614096,False
+9831-BPFRI,789,1,Poor expertise of online support,One year,39,89.55,0.46357180751897836,False
+4397-FRLTA,790,0,-,Month-to-month,4,20.15,0.46245975450859395,False
+9618-LFJRU,791,0,-,Month-to-month,4,20.45,0.4609948997441565,False
+8847-GEOOQ,792,0,-,Month-to-month,60,60.2,0.4570315258893624,False
+4753-PADAS,793,0,-,One year,67,105.7,0.456909684809641,False
+8547-NSBBO,794,0,-,Month-to-month,35,96.75,0.4567132858092578,False
+9591-YVTEB,795,0,-,Month-to-month,55,44.85,0.45631905899314,False
+3363-EWLGO,796,0,-,Month-to-month,5,19.95,0.45620821486920454,False
+9825-YCXWZ,797,0,-,One year,41,101.1,0.45485820614124944,False
+0691-NIKRI,798,0,-,One year,40,105.95,0.4547330506668961,False
+8706-HRADD,799,0,-,Month-to-month,21,43.55,0.454403382593095,False
+7016-NVRIC,800,0,-,One year,29,90.1,0.45338428741067555,False
+1041-RXHRA,801,1,Attitude of support person,Month-to-month,41,70.25,0.4503131148458687,False
+0523-VNGTF,802,0,-,Month-to-month,52,50.5,0.45001858017839536,False
+5133-VRSAB,803,0,-,Month-to-month,8,29.35,0.44905615549743566,False
+9314-QDMDW,804,0,-,One year,11,61.25,0.44790596257611776,False
+6281-FKEWS,805,0,-,One year,44,49.05,0.4469879095077423,False
+6686-YPGHK,806,1,Moved,Month-to-month,47,85.5,0.4465994572010502,False
+6131-FOYAS,807,0,-,Month-to-month,35,59.6,0.4463147747938917,False
+7036-ZZKBD,808,0,-,Month-to-month,31,66.4,0.4442841161078917,False
+9904-EHEVJ,809,0,-,Month-to-month,32,91.35,0.444188841973256,False
+5569-IDSEY,810,0,-,One year,71,105.7,0.44353576403384304,False
+8070-AAWZP,811,0,-,Month-to-month,24,34.25,0.4425719400637405,False
+0617-FHSGK,812,1,Extra data charges,Month-to-month,49,75.2,0.44121111150078407,False
+0733-VUNUW,813,1,Competitor had better devices,Month-to-month,24,55.65,0.44080106658646634,False
+8735-IJJEG,814,0,-,Month-to-month,14,50.2,0.44065560377264684,False
+8444-WRIDW,815,1,Lack of self-service on Website,Month-to-month,66,80.45,0.43994608790970435,False
+9408-HRXRK,816,0,-,Month-to-month,45,105.15,0.43930827366925257,False
+8111-BKVDS,817,0,-,Month-to-month,10,40.7,0.43921551679718845,False
+9139-WQQDY,818,1,Competitor offered higher download speeds,One year,49,100.45,0.4386902707410248,False
+2108-GLPQB,819,0,-,Month-to-month,25,55.55,0.4386695945624791,False
+4501-VCPFK,820,0,-,Month-to-month,26,35.75,0.4382210688342517,False
+2782-JEEBU,821,0,-,Month-to-month,21,36.0,0.43802919200878787,False
+3256-EZDBI,822,0,-,Month-to-month,51,29.45,0.4377522646441316,False
+6728-DKUCO,823,0,-,One year,72,104.15,0.4369312636884682,False
+5309-TAIKL,824,0,-,Month-to-month,7,62.8,0.43589861533419766,False
+2709-UQGNP,825,0,-,Month-to-month,10,51.65,0.4324752780166138,False
+7356-AYNJP,826,0,-,One year,4,23.9,0.4323098295342214,False
+6620-JDYNW,827,0,-,Month-to-month,18,60.6,0.4321553903952293,False
+9661-MHUMO,828,1,Service dissatisfaction,Month-to-month,1,49.25,0.43203288205501833,False
+7682-AZNDK,829,0,-,Month-to-month,34,89.85,0.42999791963294726,False
+1169-SAOCL,830,0,-,One year,49,106.65,0.4297608633983604,False
+5780-INQIK,831,0,-,Month-to-month,8,49.4,0.42799174083379793,False
+1591-NFNLQ,832,1,Don't know,Month-to-month,51,80.0,0.42675027800283477,False
+6549-YMFAW,833,0,-,Month-to-month,9,21.25,0.4251547076490562,False
+4365-MSDYN,834,0,-,Month-to-month,8,19.55,0.4248014479169892,False
+2235-ZGKPT,835,1,Product dissatisfaction,Month-to-month,4,50.85,0.4228370731409261,False
+3886-CERTZ,836,1,Attitude of service provider,One year,72,109.25,0.4218495865815159,False
+5522-JBWMO,837,0,-,Month-to-month,1,44.0,0.42130282818456305,False
+3709-OIJEA,838,0,-,One year,26,85.2,0.4209335199621911,False
+3161-GETRM,839,0,-,Month-to-month,34,90.05,0.4208243044674328,False
+5186-EJEGL,840,0,-,Month-to-month,9,69.5,0.4197758566719033,False
+6158-DWPZT,841,1,Competitor offered more data,One year,9,24.1,0.41388584965067715,False
+0409-WTMPL,842,0,-,One year,58,110.65,0.41184594915855727,False
+3199-NPKCN,843,0,-,One year,67,111.25,0.41181436751547557,False
+3402-XRIUO,844,0,-,Month-to-month,22,63.55,0.41121139238904275,False
+2359-KLTEK,845,0,-,Month-to-month,41,94.9,0.40947915050277617,False
+1110-KYLGQ,846,0,-,Month-to-month,63,108.25,0.4085720311371388,False
+0639-TSIQW,847,1,Competitor offered more data,Month-to-month,67,102.95,0.4072062886897565,False
+7883-ROJOC,848,0,-,Month-to-month,19,44.9,0.40680029415956526,False
+0330-BGYZE,849,0,-,One year,60,102.5,0.40672476433457466,False
+0895-LMRSF,850,0,-,One year,23,64.9,0.40510513395856457,False
+7825-ECJRF,851,1,Network reliability,Month-to-month,19,106.6,0.4048199785065098,False
+8495-PRWFH,852,0,-,Month-to-month,42,55.65,0.4035718018302885,False
+5140-FOMCQ,853,0,-,One year,59,109.15,0.4027262973785035,False
+4826-TZEVA,854,0,-,Month-to-month,40,74.8,0.40230817942798797,False
+5071-FBJFS,855,0,-,Month-to-month,4,50.3,0.40227605691314855,False
+2359-QWQUL,856,1,Competitor made better offer,One year,39,104.7,0.4020009039560359,False
+7296-PIXQY,857,0,-,Month-to-month,14,70.2,0.40070737937836737,False
+6907-CQGPN,858,0,-,Month-to-month,29,34.3,0.40047256556120575,False
+4323-OHFOW,859,0,-,One year,70,105.55,0.3985984281929346,False
+8317-BVKSO,860,0,-,Month-to-month,14,20.05,0.39766963258816834,False
+0943-ZQPXH,861,0,-,Month-to-month,44,92.95,0.3975153828563689,False
+2229-VWQJH,862,0,-,Month-to-month,24,49.3,0.39667850408291006,False
+7018-WBJNK,863,0,-,Month-to-month,13,78.3,0.395355201535976,False
+0277-BKSQP,864,0,-,Month-to-month,8,54.4,0.39488870203808046,False
+1785-BPHTP,865,0,-,Month-to-month,28,85.45,0.39411203832467023,False
+6563-VNPMN,866,0,-,Month-to-month,45,85.7,0.3938753198358789,False
+6738-ISCBM,867,0,-,One year,44,54.0,0.3933869633655911,False
+9101-BWFSS,868,1,Moved,One year,50,108.55,0.39310784207289073,False
+1502-XFCVR,869,1,Competitor offered higher download speeds,One year,58,106.45,0.3925201656213876,False
+2750-BJLSB,870,0,-,One year,47,103.7,0.3925192600892784,False
+4747-LCAQL,871,0,-,Month-to-month,25,79.0,0.3921942732553029,False
+7108-DGVUU,872,0,-,One year,21,71.7,0.39162034328050965,False
+6322-PJJDJ,873,0,-,Two year,49,94.8,0.3913778092667286,False
+7576-JMYWV,874,0,-,Month-to-month,46,110.2,0.3906575230398,False
+3780-YVMFA,875,0,-,Month-to-month,8,68.55,0.3890888719676955,False
+9494-BDNNC,876,0,-,One year,66,95.3,0.3874397438128696,False
+4939-KYYPY,877,0,-,Month-to-month,27,59.45,0.38735199961290834,False
+0584-BJQGZ,878,0,-,Month-to-month,25,78.35,0.38734510681985423,False
+2577-GVSIL,879,0,-,One year,35,73.45,0.3851805137551377,False
+6402-SSEJG,880,0,-,One year,25,61.05,0.38515241483569473,False
+8920-NAVAY,881,0,-,One year,62,110.75,0.38434084793333456,False
+1699-HPSBG,882,1,Competitor offered higher download speeds,One year,12,59.8,0.3833538024131278,False
+3160-TYXLT,883,0,-,Month-to-month,53,46.3,0.38238495945750467,False
+6898-MDLZW,884,0,-,Month-to-month,12,53.75,0.38219866202624503,False
+0719-SYFRB,885,1,Competitor offered higher download speeds,Month-to-month,12,61.65,0.38161746002001423,False
+6227-FBDXH,886,0,-,One year,69,99.5,0.380974631751341,False
+2794-XIMMO,887,1,Lack of affordable download/upload speed,One year,53,60.45,0.38085450090075534,False
+3948-XHGNA,888,1,Attitude of support person,Month-to-month,24,49.55,0.37925936374299485,False
+9909-DFRJA,889,0,-,One year,26,95.85,0.37909005998717665,False
+4190-MFLUW,890,1,Competitor offered higher download speeds,Month-to-month,10,55.2,0.3786709839634875,False
+1179-INLAT,891,0,-,One year,3,19.45,0.3782217210535479,False
+1324-NLTJE,892,1,Don't know,Month-to-month,15,55.0,0.3770897052001098,False
+9420-LOJKX,893,1,Competitor offered more data,Month-to-month,15,99.1,0.375330506176139,False
+0568-ONFPC,894,1,Moved,Month-to-month,5,25.9,0.37473706637787135,False
+8189-DUKMV,895,0,-,One year,4,20.5,0.3720351034200076,False
+0980-PVMRC,896,0,-,Month-to-month,40,50.85,0.3716690949326745,False
+5174-RNGBH,897,1,Network reliability,Month-to-month,9,66.25,0.3696896440435874,False
+9107-UKCKY,898,0,-,One year,61,79.8,0.36781508968319204,False
+6261-LHRTG,899,0,-,Month-to-month,26,54.75,0.3674328834411417,False
+2585-KTFRE,900,0,-,Month-to-month,1,70.45,0.3671731669002715,False
+5562-BETPV,901,0,-,One year,1,19.65,0.36636620800330993,False
+8979-CAMGB,902,0,-,One year,64,102.1,0.3663551840995003,False
+5630-AHZIL,903,0,-,Month-to-month,3,64.5,0.36421299308313976,False
+3787-TRIAL,904,0,-,Month-to-month,21,26.05,0.3632299944891079,False
+2155-AMQRX,905,0,-,Month-to-month,28,54.9,0.3629497656083328,False
+1346-PJWTK,906,0,-,Month-to-month,61,94.15,0.36291591085789454,False
+0423-UDIJQ,907,0,-,Month-to-month,9,49.2,0.3620016868122323,False
+7964-YESJC,908,0,-,Month-to-month,24,66.3,0.35740705837922454,False
+3621-CHYVB,909,0,-,Month-to-month,57,49.9,0.3570647949987397,False
+4929-ROART,910,0,-,Month-to-month,18,56.25,0.3560315977760624,False
+5339-TJFEK,911,0,-,Month-to-month,62,105.5,0.35511090025476594,False
+3638-DIMPH,912,0,-,One year,13,43.8,0.3537819066130143,False
+7663-ZTEGJ,913,0,-,One year,29,100.55,0.35094173606853685,False
+7605-SNLQG,914,0,-,Month-to-month,45,50.25,0.34934431564609786,False
+6769-DCQLI,915,1,Don't know,One year,52,105.0,0.3490744637849127,False
+1360-XFJMR,916,0,-,One year,67,109.7,0.3482555372547546,False
+8182-PNAGI,917,1,Extra data charges,Month-to-month,12,50.25,0.3465132975977616,False
+0280-XJGEX,918,1,Competitor had better devices,Month-to-month,49,103.7,0.3455803583348313,False
+2259-OUUSZ,919,0,-,One year,7,35.5,0.34447000958223906,False
+5522-NYKPB,920,0,-,Month-to-month,25,85.9,0.3415816610679763,False
+4016-BJKTZ,921,0,-,Two year,25,108.9,0.3407493958136008,False
+1629-DQQVB,922,0,-,Month-to-month,14,50.1,0.3386846674447456,False
+5934-TSSAU,923,0,-,Month-to-month,23,75.3,0.3367203406793506,False
+2978-XXSOG,924,0,-,Month-to-month,22,59.05,0.3359744348791148,False
+2055-SIFSS,925,0,-,Month-to-month,55,51.65,0.33293495352537705,False
+8017-UVSZU,926,0,-,Month-to-month,40,56.6,0.3328913010769143,False
+4002-BQWPQ,927,0,-,Month-to-month,25,81.75,0.33287839378289114,False
+5966-EMAZU,928,0,-,One year,64,108.5,0.33230138871937753,False
+1371-WEPDS,929,0,-,One year,40,55.8,0.33069496178278107,False
+4250-WAROZ,930,0,-,Month-to-month,60,93.25,0.3304885164778451,False
+2560-PPCHE,931,0,-,One year,65,105.05,0.32982417573830547,False
+9863-JZAIC,932,1,Don't know,Month-to-month,35,55.0,0.32776723553065323,False
+8474-UMLNT,933,0,-,Month-to-month,13,67.8,0.32580049425407537,False
+5294-IMHHT,934,0,-,One year,53,97.75,0.3249512294003503,False
+9259-PACGQ,935,1,Competitor had better devices,Month-to-month,34,62.65,0.3248953545009213,False
+0723-VSOBE,936,0,-,One year,45,34.2,0.3244543514080614,False
+0665-XHDJU,937,0,-,Two year,72,99.4,0.32395340313705173,False
+0655-YDGFJ,938,0,-,Month-to-month,29,48.95,0.322627998380947,False
+9033-EOXWV,939,1,Don't know,One year,12,74.05,0.3224883972489219,False
+6865-JZNKO,940,0,-,Month-to-month,30,55.3,0.3217938148950567,False
+5716-LIBJC,941,0,-,One year,13,104.15,0.32138924724024404,False
+8080-POTJR,942,0,-,One year,30,79.3,0.32079687362766396,False
+6794-HKIAJ,943,0,-,Month-to-month,62,90.7,0.3206288200598907,False
+2294-SALNE,944,0,-,One year,23,86.8,0.31948756223695185,False
+5440-VHLUL,945,0,-,One year,69,105.2,0.31830757009850097,False
+2858-MOFSQ,946,1,Price too high,One year,17,55.85,0.31734861059265146,False
+2242-MFOTG,947,0,-,One year,33,80.1,0.31693724532907985,False
+5294-CDGWY,948,1,Don't know,One year,51,59.3,0.31566129157173445,False
+2722-VOJQL,949,1,Service dissatisfaction,One year,64,105.65,0.31549952778455564,False
+9092-GDZKO,950,0,-,Month-to-month,22,24.85,0.3119666986760812,False
+5274-XHAKY,951,0,-,Month-to-month,41,94.3,0.3118746984378022,False
+9909-IDLEK,952,0,-,Month-to-month,20,96.8,0.3116705698554991,False
+6289-CPNLD,953,1,Attitude of service provider,One year,33,73.9,0.3108670643185117,False
+1376-HHBDV,954,0,-,Month-to-month,30,48.8,0.30939094419539964,False
+7964-VEXDG,955,0,-,Month-to-month,21,80.35,0.3067313269379831,False
+6258-NGCNG,956,0,-,Month-to-month,7,23.5,0.30534745488671755,False
+3417-TSCIC,957,0,-,One year,29,24.85,0.30345814174071817,False
+4759-PXTAN,958,0,-,One year,59,80.1,0.3033525688063636,False
+2436-QBZFP,959,0,-,Month-to-month,22,39.2,0.3033010323437209,False
+9629-NHXFW,960,0,-,Month-to-month,1,19.4,0.30126658622054725,False
+7853-GVUDZ,961,1,Lack of self-service on Website,Month-to-month,1,20.15,0.30094452180690523,False
+5173-ZXXXL,962,0,-,One year,2,19.95,0.30063855371304576,False
+2851-MMUTZ,963,0,-,Month-to-month,27,56.15,0.300617457853401,False
+1423-BMPBQ,964,0,-,Month-to-month,1,19.0,0.30045073149912344,False
+1355-KUSBG,965,0,-,Month-to-month,7,48.8,0.3002118735789108,False
+3714-XPXBW,966,0,-,Month-to-month,37,78.9,0.296199842495438,False
+5640-CAXOA,967,0,-,One year,30,40.35,0.2943882825996491,False
+2277-BKJKN,968,0,-,Two year,71,99.2,0.29422427420807395,False
+2801-NISEI,969,0,-,Month-to-month,24,54.95,0.29396187959520526,False
+0516-UXRMT,970,0,-,One year,62,92.05,0.29314901601778004,False
+0750-EBAIU,971,0,-,One year,52,91.25,0.29166288469265406,False
+0787-LHDYT,972,0,-,Month-to-month,16,20.6,0.29144398995654086,False
+0327-WFZSY,973,0,-,One year,39,100.0,0.2911947085946264,False
+5619-XZZKR,974,0,-,One year,4,19.95,0.2909599664511861,False
+4393-OBCRR,975,0,-,One year,3,20.25,0.2883351218497773,False
+2925-MXLSX,976,0,-,One year,30,68.95,0.28696046572200734,False
+2363-BJLSL,977,0,-,Month-to-month,62,80.4,0.2867398573366809,False
+3413-DHLPB,978,0,-,Month-to-month,60,103.75,0.2854123033299987,False
+7246-ZGQDF,979,0,-,Month-to-month,1,54.5,0.2847808064215584,False
+4189-NAKJS,980,0,-,One year,26,51.55,0.2833846384079163,False
+4430-YHXGG,981,0,-,Month-to-month,4,25.45,0.28236212498321966,False
+3680-CTHUH,982,0,-,One year,60,116.6,0.28059395416431343,False
+0297-RBCSG,983,0,-,One year,19,65.35,0.2796180978910546,False
+6941-KXRRV,984,0,-,One year,48,58.95,0.2783038394938872,False
+8204-TIFGJ,985,0,-,Month-to-month,23,20.3,0.27701386646569176,False
+1400-WIVLL,986,0,-,Two year,57,107.95,0.27540951214481113,False
+5223-UZAVK,987,0,-,One year,64,100.3,0.27488460843994555,False
+6253-WRFHY,988,0,-,One year,13,64.75,0.2722388799496201,False
+2947-DOMLJ,989,1,Service dissatisfaction,Month-to-month,1,50.6,0.2721311842988626,False
+7909-FIOIY,990,0,-,Month-to-month,19,24.85,0.2711687667697521,False
+8865-TNMNX,991,0,-,One year,10,49.55,0.27058427392041257,False
+3999-WRNGR,992,0,-,Month-to-month,60,49.75,0.26886224744244,False
+2484-DGXPZ,993,1,Attitude of support person,Month-to-month,31,19.55,0.2687314202358825,False
+7746-QYVCO,994,0,-,One year,16,55.85,0.2685714225518325,False
+3623-FQBOX,995,0,-,Month-to-month,21,19.95,0.268538657460187,False
+6295-OSINB,996,0,-,Two year,72,109.65,0.2684757346837613,False
+9546-KDTRB,997,0,-,Month-to-month,19,24.7,0.2682874289618641,False
+5829-NVSQN,998,0,-,One year,23,68.75,0.2679744730880443,False
+0282-NVSJS,999,0,-,Month-to-month,12,29.3,0.2671307894263708,False
+3642-GKTCT,1000,0,-,One year,61,115.1,0.26709862159727527,False
+0807-ZABDG,1001,1,Competitor offered higher download speeds,Month-to-month,3,55.1,0.2670698414720248,False
+2791-SFVEW,1002,0,-,Month-to-month,9,20.15,0.26683433129634715,False
+1060-ENTOF,1003,0,-,One year,67,105.4,0.2664771149317026,False
+7336-RLLRH,1004,0,-,One year,27,80.85,0.26559696555345064,False
+0628-CNQRM,1005,1,Don't know,One year,22,67.5,0.26472159513558297,False
+6490-FGZAT,1006,0,-,Month-to-month,6,20.65,0.2646390137181352,False
+7629-WFGLW,1007,0,-,One year,56,95.65,0.2628352077175011,False
+1171-TYKUR,1008,0,-,Month-to-month,47,25.4,0.2624006936133657,False
+5286-YHCVC,1009,0,-,Two year,72,104.8,0.260993694818314,False
+0536-ACXIP,1010,0,-,Two year,72,109.55,0.26071809025974135,False
+7055-VKGDA,1011,1,Product dissatisfaction,One year,54,105.4,0.2597248871458295,False
+7459-IMVYU,1012,0,-,Month-to-month,38,69.95,0.2592902640612972,False
+9076-AXYIK,1013,0,-,Two year,64,102.1,0.2584934359138521,False
+7874-ECPQJ,1014,0,-,Month-to-month,4,20.05,0.2580616103475636,False
+1527-SXDPN,1015,1,Poor expertise of phone support,Two year,52,96.25,0.25771901611334014,False
+8267-KFGYD,1016,0,-,Month-to-month,1,21.05,0.25683760158162966,False
+5850-BDWCY,1017,0,-,Month-to-month,6,20.2,0.25630584185825156,False
+0186-CAERR,1018,0,-,One year,71,116.3,0.2560705711641313,False
+7632-MNYOY,1019,1,Attitude of service provider,One year,66,110.9,0.2551397027870525,False
+1136-XGEQU,1020,0,-,One year,50,84.15,0.25463881828603063,False
+3137-NYQQI,1021,0,-,One year,17,64.8,0.2540735810252015,False
+3541-ZNUHK,1022,0,-,Month-to-month,55,85.1,0.25403673281190386,False
+8406-LNMHF,1023,0,-,One year,59,82.95,0.2537937544920714,False
+3635-JBPSG,1024,0,-,Two year,15,38.8,0.2525601429919668,False
+6671-NGWON,1025,0,-,Month-to-month,7,20.35,0.2521765277590192,False
+7566-DSRLQ,1026,0,-,Two year,72,110.15,0.2519040100058888,False
+9912-OMZDS,1027,0,-,One year,59,106.15,0.251883768456442,False
+9391-TTOYH,1028,0,-,Month-to-month,23,19.5,0.25128315857760897,False
+9350-ZXYJC,1029,0,-,Two year,4,25.3,0.2501696908514542,False
+2150-WLKUW,1030,0,-,One year,40,63.9,0.25008024808981516,False
+4654-DLAMQ,1031,0,-,One year,64,97.0,0.24927582690353728,False
+5898-IGSLP,1032,0,-,Month-to-month,31,89.3,0.2491669024178971,False
+6655-LHBYW,1033,0,-,One year,50,114.35,0.24857321541936006,False
+5872-OEQNH,1034,0,-,One year,60,44.45,0.2485714616539813,False
+5013-SBUIH,1035,1,Competitor had better devices,Two year,50,109.65,0.2485269114658109,False
+7611-YKYTC,1036,0,-,Month-to-month,22,75.0,0.24812256294377108,False
+2001-MCUUW,1037,0,-,Two year,46,108.65,0.2476123040830385,False
+2959-EEXWB,1038,0,-,Month-to-month,45,50.9,0.24672573053556068,False
+6979-TNDEU,1039,0,-,Month-to-month,8,19.2,0.2457475175371878,False
+2533-QVMSK,1040,1,Competitor offered more data,Two year,61,94.1,0.24466714854659946,False
+7550-WIQVA,1041,0,-,One year,50,108.25,0.24464635562639236,False
+0112-QWPNC,1042,1,Competitor offered higher download speeds,One year,49,84.35,0.24416635835630848,False
+3982-DQLUS,1043,0,-,Month-to-month,65,85.75,0.24389622562322705,False
+9972-NKTFD,1044,0,-,Month-to-month,28,54.65,0.24366767800510972,False
+2324-EFHVG,1045,0,-,Two year,64,104.4,0.24325498694141062,False
+0603-OLQDC,1046,0,-,Month-to-month,12,69.85,0.24234475369350023,False
+9932-WBWIK,1047,0,-,Month-to-month,11,20.35,0.24212356228752213,False
+2371-JUNGC,1048,0,-,Month-to-month,11,20.25,0.2419456719398497,False
+2001-EWBQU,1049,0,-,Two year,60,104.7,0.23964050034030498,False
+6682-VCIXC,1050,0,-,One year,43,51.25,0.23775673492269112,False
+8200-KLNYW,1051,0,-,One year,21,80.9,0.2367332264749218,False
+4622-YNKIJ,1052,0,-,Two year,33,88.95,0.23591098625395263,False
+4134-BSXLX,1053,0,-,Month-to-month,28,60.9,0.23345164843297955,False
+5229-DTFYB,1054,0,-,Two year,41,98.8,0.23332451240488747,False
+2325-ZUSFD,1055,1,Network reliability,One year,57,70.1,0.2325958637749337,False
+0667-NSRGI,1056,0,-,One year,48,69.55,0.23148781063290397,False
+5304-EFJLP,1057,0,-,Two year,72,111.65,0.231350403369947,False
+7078-NVFAM,1058,0,-,Month-to-month,32,35.15,0.23057774962302394,False
+3803-KMQFW,1059,1,Competitor offered more data,Month-to-month,1,20.55,0.2305229809706836,False
+9052-DHNKM,1060,0,-,One year,26,61.55,0.2294549295427327,False
+3750-RNQKR,1061,0,-,Month-to-month,12,19.45,0.22935920962207917,False
+5791-KAJFD,1062,0,-,One year,56,68.75,0.22850118857402718,False
+1162-ECVII,1063,0,-,Two year,72,109.75,0.2280903754028869,False
+6366-XIVKZ,1064,0,-,Month-to-month,13,63.15,0.22798405952076342,False
+5271-YNWVR,1065,1,Extra data charges,Two year,68,113.15,0.22535879739737957,False
+5236-PERKL,1066,1,Competitor offered higher download speeds,Two year,57,112.95,0.2252339624703012,False
+4922-CVPDX,1067,0,-,Two year,26,73.5,0.2247613335306421,False
+2080-SRCDE,1068,0,-,Month-to-month,1,25.4,0.22464552744482466,False
+7722-CVFXN,1069,0,-,One year,54,105.2,0.22391552794486683,False
+7989-VCQOH,1070,0,-,Month-to-month,18,83.25,0.22384899863588553,False
+0799-DDIHE,1071,0,-,Month-to-month,15,46.3,0.2223486501519319,False
+5701-SVCWR,1072,0,-,Month-to-month,1,24.0,0.22228980230928555,False
+0620-XEFWH,1073,0,-,Month-to-month,4,18.85,0.2222424584240088,False
+3229-USWAR,1074,0,-,One year,34,79.95,0.2213043746333877,False
+8822-KNBHV,1075,0,-,One year,48,83.45,0.22125322216323887,False
+1465-WCZVT,1076,0,-,Month-to-month,3,19.65,0.22087838027221599,False
+4079-ULGFR,1077,0,-,Month-to-month,16,20.0,0.22086470992512172,False
+4654-GGUII,1078,0,-,One year,18,40.2,0.2206249776951076,False
+5468-BPMMO,1079,0,-,Month-to-month,46,19.6,0.22060112012360494,False
+2038-YSEZE,1080,0,-,Month-to-month,29,67.45,0.2195984152923545,False
+6266-QHOJZ,1081,0,-,One year,65,89.85,0.21901238444534118,False
+2930-UOTMB,1082,1,Competitor offered higher download speeds,Month-to-month,31,65.25,0.21869953944900833,False
+6507-DTJZV,1083,0,-,Month-to-month,13,66.4,0.21866764551930123,False
+8879-XUAHX,1084,0,-,Two year,71,116.25,0.21851397667257652,False
+9134-WYRVP,1085,0,-,One year,51,86.35,0.2182471741050274,False
+5693-PIPCS,1086,0,-,Two year,41,99.65,0.21823279965731837,False
+6878-GGDWG,1087,0,-,Month-to-month,32,19.4,0.2181817275435847,False
+6040-CGACY,1088,0,-,Month-to-month,15,19.6,0.21751967476343836,False
+5081-NWSUP,1089,0,-,One year,10,64.9,0.21747261484489666,False
+1444-VVSGW,1090,1,Product dissatisfaction,One year,70,115.65,0.2171747206761129,False
+5161-XEUVX,1091,0,-,Two year,37,94.3,0.2150313586256184,False
+0536-BGFMZ,1092,0,-,Month-to-month,28,20.5,0.21460401357683323,False
+1334-PDUKM,1093,0,-,One year,68,86.45,0.2145188722144893,False
+4567-AKPIA,1094,0,-,One year,41,109.1,0.21424111025689882,False
+1352-VHKAJ,1095,0,-,Month-to-month,27,71.6,0.21378255165111462,False
+6603-QWSPR,1096,0,-,Two year,46,104.4,0.21241136238093158,False
+8734-FNWVH,1097,0,-,Month-to-month,31,59.7,0.21060272834336155,False
+6766-HFKLA,1098,0,-,Two year,56,103.2,0.20955123985031457,False
+5092-STPKP,1099,0,-,Month-to-month,24,56.35,0.20856344293571397,False
+6408-OTUBZ,1100,0,-,One year,66,104.55,0.20755494709951858,False
+6050-IJRHS,1101,0,-,One year,70,106.5,0.20738394254777245,False
+6483-OATDN,1102,0,-,Month-to-month,8,51.3,0.20326934107918376,False
+9938-ZREHM,1103,0,-,One year,37,72.1,0.20323115986023335,False
+9309-BZGNT,1104,0,-,One year,69,29.8,0.20245927041178555,False
+2809-ILCYT,1105,0,-,One year,25,26.8,0.20213935013506126,False
+6797-LNAQX,1106,1,Attitude of service provider,Two year,70,98.3,0.20202939880634987,False
+2483-XSSMZ,1107,0,-,One year,39,47.85,0.201770315849815,False
+4522-XRWWI,1108,0,-,One year,42,80.45,0.20128785288150208,False
+1866-ZSLJM,1109,0,-,Month-to-month,21,20.5,0.20088740221552934,False
+2499-AJYUA,1110,0,-,Two year,72,110.8,0.20079265587740525,False
+5447-VYTKW,1111,0,-,Month-to-month,27,53.45,0.20041142922914332,False
+5198-HQAEN,1112,0,-,One year,35,89.7,0.20035947467220566,False
+2746-DIJLO,1113,0,-,One year,41,56.3,0.1979143326880512,False
+9386-LDCZR,1114,0,-,One year,43,90.65,0.19777199162357326,False
+3224-DFQNQ,1115,0,-,One year,66,89.0,0.19749126637220707,False
+8659-HDIYE,1116,0,-,Month-to-month,64,74.65,0.19741728951682733,False
+4598-ZADCK,1117,0,-,One year,53,53.6,0.19606760617509866,False
+4223-BKEOR,1118,0,-,One year,21,64.85,0.19574569001530492,False
+5236-XMZJY,1119,0,-,Month-to-month,42,59.65,0.1952340020077196,False
+8879-ZKJOF,1120,0,-,One year,41,79.85,0.1943973204686703,False
+2323-ARSVR,1121,0,-,Two year,67,111.05,0.19349366342085003,False
+6838-YAUVY,1122,0,-,Two year,54,95.1,0.19302496989304155,False
+0068-FIGTF,1123,0,-,One year,27,78.2,0.19224208054961692,False
+4310-KEDTB,1124,0,-,Month-to-month,26,29.8,0.1917955116979462,False
+1877-HKBQX,1125,0,-,One year,11,54.6,0.19127604098388037,False
+6034-ZRYCV,1126,1,Competitor offered more data,Two year,72,54.2,0.19005040879295954,False
+8992-VONJD,1127,0,-,Month-to-month,13,56.0,0.19003021028578168,False
+8819-ZBYNA,1128,0,-,Two year,58,109.1,0.18944002000880752,False
+3452-FLHYD,1129,0,-,One year,25,20.95,0.18820237492358113,False
+8777-MBMTS,1130,0,-,Two year,65,105.85,0.18810936419295143,False
+7407-SUJIZ,1131,0,-,Month-to-month,25,20.6,0.18786860949735001,False
+2272-JKMSI,1132,0,-,One year,62,110.8,0.1865763794454933,False
+0134-XWXCE,1133,0,-,One year,44,74.85,0.18617383292839787,False
+7868-TMWMZ,1134,0,-,Two year,60,110.0,0.18549136078193104,False
+3640-JQGJG,1135,0,-,Month-to-month,13,44.8,0.18546239816901658,False
+4576-CSAJH,1136,1,Attitude of support person,One year,22,55.15,0.18466833348774941,False
+4199-QHJNM,1137,0,-,Two year,67,102.9,0.18457301826416986,False
+9763-GRSKD,1138,0,-,Month-to-month,13,49.95,0.18445655766382346,False
+8044-BGWPI,1139,0,-,Month-to-month,12,21.15,0.18444058914477873,False
+5961-VUSRV,1140,0,-,One year,12,19.35,0.18389065903927423,False
+7521-YXVZY,1141,0,-,Month-to-month,3,19.95,0.1831960254182248,False
+9837-FWLCH,1142,0,-,Month-to-month,12,19.2,0.181613264046623,False
+1448-CYWKC,1143,0,-,One year,58,105.2,0.18143854134978113,False
+9621-OUPYD,1144,0,-,One year,25,20.2,0.18124935076335447,False
+2578-JQPHZ,1145,0,-,Two year,44,100.1,0.18068458322483552,False
+1135-HIORI,1146,0,-,One year,64,111.45,0.18055737517294002,False
+5811-IWXYM,1147,0,-,One year,52,101.25,0.17990892701405659,False
+7841-FCRQD,1148,0,-,One year,33,53.75,0.1799062427976464,False
+9554-DFKIC,1149,0,-,Month-to-month,30,54.45,0.17983794603845726,False
+1779-PWPMG,1150,0,-,Two year,72,114.65,0.17980642140310016,False
+5832-EXGTT,1151,0,-,Month-to-month,29,60.2,0.17913451330867713,False
+5740-YHGTW,1152,0,-,Month-to-month,70,97.55,0.1782521010635672,False
+4942-VZZOM,1153,0,-,One year,64,66.15,0.1779663921907398,False
+2878-RMWXY,1154,0,-,Two year,72,102.65,0.17663412561207695,False
+6543-JXSOO,1155,0,-,One year,23,57.75,0.1759249409816021,False
+7134-HBPBS,1156,0,-,Two year,72,108.1,0.17506867731876635,False
+9844-FELAJ,1157,0,-,One year,70,107.9,0.17458049560019726,False
+8777-PVYGU,1158,0,-,One year,52,64.3,0.17450913136142177,False
+3705-RHRFR,1159,0,-,Two year,69,99.15,0.1739439953667428,False
+4445-KWOKW,1160,0,-,One year,42,60.15,0.17380070463423614,False
+9929-PLVPA,1161,0,-,Month-to-month,4,20.4,0.1734436154588529,False
+2294-DMMUS,1162,0,-,Month-to-month,62,70.45,0.17299334739332745,False
+7544-ZVIKX,1163,0,-,One year,58,105.05,0.17298893117063552,False
+4322-RCYMT,1164,1,Service dissatisfaction,One year,68,75.8,0.1721168073194164,False
+3115-CZMZD,1165,0,-,Two year,0,20.25,0.17123388205863313,False
+0840-DCNZE,1166,0,-,One year,47,86.95,0.17028014851116743,False
+2351-RRBUE,1167,0,-,One year,7,20.65,0.17004971491974213,False
+4137-JOPHL,1168,0,-,Two year,50,89.7,0.17001341132532613,False
+0201-OAMXR,1169,1,Network reliability,One year,70,115.55,0.16823702716739294,False
+8559-WNQZS,1170,0,-,Two year,1,20.45,0.1682330665690315,False
+9289-LBQVU,1171,0,-,One year,64,70.15,0.16821934359909824,False
+9578-FOMUK,1172,0,-,Month-to-month,15,24.8,0.16779720750945637,False
+8630-QSGXK,1173,0,-,Two year,51,75.2,0.16736602170730253,False
+5135-GRQJV,1174,0,-,Two year,72,114.5,0.16729585963339527,False
+7876-AEHIG,1175,0,-,One year,51,60.15,0.1668658021313725,False
+5170-PTRKA,1176,0,-,One year,49,35.8,0.1641947739357051,False
+8313-AFGBW,1177,0,-,Two year,47,73.6,0.16392018845381529,False
+8652-YHIYU,1178,0,-,One year,16,79.5,0.16348152900139873,False
+8853-TZDGH,1179,0,-,Two year,72,111.6,0.16123351896206378,False
+2321-OMBXY,1180,1,Limited range of services,One year,38,80.3,0.16089047877756157,False
+3197-NNYNB,1181,0,-,Two year,65,105.1,0.15974808164356108,False
+1952-DVVSW,1182,0,-,One year,10,20.1,0.1597204994197725,False
+9074-KGVOX,1183,0,-,Month-to-month,50,39.45,0.15782286765610284,False
+3397-AVTKU,1184,0,-,Two year,43,60.0,0.15708241184303387,False
+2898-MRKPI,1185,0,-,One year,68,101.05,0.15691568259154748,False
+2348-KCJLT,1186,0,-,One year,44,61.5,0.15505521571335,False
+5473-KHBPS,1187,0,-,One year,52,95.7,0.15499966683956232,False
+4664-NJCMS,1188,0,-,Two year,33,59.55,0.1542635418369825,False
+9839-ETQOE,1189,0,-,Month-to-month,43,40.45,0.15376429671715597,False
+9788-HNGUT,1190,0,-,Two year,72,116.95,0.15150367234162243,False
+5197-PYEPU,1191,0,-,One year,42,94.45,0.15137013090177745,False
+1325-USMEC,1192,0,-,Two year,70,99.35,0.15130437004616293,False
+6416-JNVRK,1193,0,-,One year,46,55.65,0.15111857716434227,False
+8869-LIHMK,1194,0,-,Two year,64,115.1,0.14976840722671306,False
+0013-SMEOE,1195,0,-,Two year,71,109.7,0.1495600189999394,False
+3275-RHRNE,1196,0,-,One year,28,60.0,0.1485397616104458,False
+8898-KASCD,1197,0,-,One year,39,35.55,0.14768626237239965,False
+4163-NCJAK,1198,0,-,One year,46,24.45,0.1469193405711372,False
+5245-VDBUR,1199,0,-,One year,52,35.45,0.14596394888078565,False
+3658-QQJYD,1200,0,-,One year,62,74.3,0.145523100397002,False
+0422-OHQHQ,1201,0,-,One year,15,20.55,0.14527963421206277,False
+1866-NXPSP,1202,0,-,One year,36,75.55,0.1452786243672819,False
+1297-VQDRP,1203,0,-,One year,68,107.15,0.1446526670760343,False
+0257-KXZGU,1204,0,-,Month-to-month,32,62.45,0.14398459617654108,False
+2039-JONDJ,1205,0,-,One year,27,55.45,0.1433223132473599,False
+7446-SFAOA,1206,0,-,One year,37,19.85,0.14306000919863024,False
+4182-BGSIQ,1207,0,-,Month-to-month,10,19.8,0.14299558400856835,False
+5512-IDZEI,1208,0,-,One year,46,24.9,0.1427804812953114,False
+2200-DSAAL,1209,0,-,Two year,68,80.65,0.1427032678802339,False
+9239-GZHZE,1210,0,-,Two year,72,113.65,0.14261294146776266,False
+7217-JYHOQ,1211,0,-,Month-to-month,24,70.3,0.1410700381744022,False
+9577-WJVCQ,1212,0,-,Month-to-month,68,54.45,0.14055745500149464,False
+1725-IQNIY,1213,1,Competitor had better devices,Two year,54,109.75,0.14041682929327928,False
+5448-VWNAM,1214,0,-,Month-to-month,19,75.9,0.1402538876153771,False
+4513-CXYIX,1215,0,-,Two year,71,80.7,0.14001771177957015,False
+5020-ZSTTY,1216,1,Long distance charges,One year,54,82.45,0.13984543550444828,False
+9867-JCZSP,1217,0,-,One year,17,20.75,0.1398373011399768,False
+6214-EDAKZ,1218,1,Service dissatisfaction,Month-to-month,22,55.15,0.13963051257543077,False
+6617-WLBQC,1219,0,-,One year,23,81.85,0.13949666894025636,False
+7247-XOZPB,1220,0,-,One year,53,77.4,0.1387844097308713,False
+9959-WOFKT,1221,0,-,Two year,71,106.7,0.13855620025513243,False
+3865-YIOTT,1222,0,-,One year,72,106.1,0.13852221212491025,False
+7375-WMVMT,1223,0,-,Two year,71,95.5,0.13786806788884462,False
+8100-HZZLJ,1224,0,-,Month-to-month,43,63.95,0.13786115954087447,False
+5566-SOEZD,1225,0,-,One year,27,80.65,0.13754377180908248,False
+6371-NZYEG,1226,0,-,Two year,16,64.25,0.13747322931199746,False
+7176-WRTNX,1227,0,-,Two year,70,114.95,0.13724358683322196,False
+9127-QRZMH,1228,0,-,One year,44,59.85,0.13609056587325893,False
+3308-JSGML,1229,0,-,Two year,59,64.05,0.1360543534099595,False
+8815-LMFLX,1230,0,-,Month-to-month,25,25.4,0.1358375415633766,False
+8319-QBEHW,1231,0,-,One year,26,39.95,0.13528103454281057,False
+3887-PBQAO,1232,0,-,One year,45,25.9,0.13526585345313924,False
+0942-KOWSM,1233,0,-,Two year,30,80.8,0.1345604064781499,False
+1866-DIOQZ,1234,0,-,One year,71,66.8,0.13442358871142857,False
+7817-OMJNA,1235,0,-,One year,14,20.4,0.13437345076278598,False
+5590-ZSKRV,1236,0,-,Month-to-month,8,54.65,0.13364157507926555,False
+3800-LYTRK,1237,0,-,One year,14,55.7,0.1328475419784834,False
+7605-BDWDC,1238,0,-,Two year,31,49.85,0.13110189117191437,False
+8746-BFOAJ,1239,0,-,One year,21,20.5,0.13106199555321352,False
+3957-HHLMR,1240,0,-,One year,70,65.2,0.1309283531112242,False
+3186-AJIEK,1241,0,-,Two year,66,105.65,0.1300010018668283,False
+3948-FVVRP,1242,0,-,Month-to-month,9,54.8,0.12964762103194266,False
+0285-INHLN,1243,0,-,Month-to-month,27,54.75,0.12962571689296526,False
+6194-HBGQN,1244,0,-,One year,51,81.15,0.12928937311565877,False
+1937-OTUKY,1245,0,-,Two year,72,98.2,0.1282713428331344,False
+7649-PHJVR,1246,0,-,One year,11,19.5,0.12713211958014625,False
+7994-XIRTR,1247,0,-,One year,54,65.25,0.12658497062214952,False
+1488-SYSFC,1248,0,-,Month-to-month,31,20.65,0.12643713427693895,False
+4667-QONEA,1249,0,-,One year,60,74.85,0.12605172871644743,False
+3011-WQKSZ,1250,0,-,Month-to-month,19,20.0,0.12604054648941188,False
+2239-CFOUJ,1251,0,-,One year,1,20.4,0.12508230034425682,False
+5820-PTRYM,1252,0,-,One year,56,68.45,0.12494780075234925,False
+5716-EZXZN,1253,0,-,Two year,65,99.05,0.12451996422236312,False
+9619-GSATL,1254,0,-,One year,43,55.45,0.12432379689681833,False
+5993-BQHEA,1255,0,-,One year,12,20.05,0.1241982377699822,False
+9805-FILKB,1256,0,-,One year,46,20.2,0.12380154725494016,False
+8084-OIVBS,1257,0,-,One year,11,20.0,0.12340114802698951,False
+6648-INWPS,1258,0,-,Month-to-month,16,20.15,0.12298989733119937,False
+9442-JTWDL,1259,0,-,One year,11,20.05,0.1225041622952758,False
+2453-SAFNS,1260,0,-,One year,54,72.1,0.12227575029634424,False
+0458-HEUZG,1261,0,-,Two year,13,35.4,0.12226339777264901,False
+1839-UMACK,1262,0,-,One year,42,25.05,0.12194993021022382,False
+0906-QVPMS,1263,0,-,Two year,72,115.15,0.12110106207842357,False
+6661-EIPZC,1264,0,-,Month-to-month,48,29.5,0.12074439068595376,False
+3594-BDSOA,1265,0,-,One year,24,20.4,0.12010096173023388,False
+1345-ZUKID,1266,0,-,One year,14,19.35,0.11944326701723064,False
+0396-UKGAI,1267,0,-,Month-to-month,23,55.3,0.11913375892399418,False
+1159-WFSGR,1268,0,-,Month-to-month,16,20.4,0.11910927903223026,False
+7795-CFOCW,1269,0,-,One year,45,42.3,0.1182340106094928,False
+1810-MVMAI,1270,0,-,Month-to-month,30,67.6,0.11762922672197393,False
+5989-AXPUC,1271,0,-,Two year,68,118.6,0.11719586593580346,False
+0979-MOZQI,1272,0,-,Two year,62,39.0,0.11599476607666367,False
+8024-XNAFQ,1273,0,-,Two year,72,107.4,0.11568285644198258,False
+3099-OONVS,1274,0,-,Month-to-month,25,54.3,0.11565334689676796,False
+1439-LCGVL,1275,0,-,One year,26,19.2,0.1149878534036808,False
+9251-WNSOD,1276,0,-,One year,67,75.1,0.11496191030964549,False
+9143-CANJF,1277,0,-,Month-to-month,24,55.15,0.11489618181556599,False
+1442-OKRJE,1278,0,-,One year,66,103.15,0.1147865221690861,False
+0014-BMAQU,1279,0,-,Two year,63,84.65,0.11464216011480623,False
+4353-HYOJD,1280,0,-,Month-to-month,27,49.85,0.11405507444256212,False
+0829-DDVLK,1281,0,-,One year,15,20.1,0.11290783385913779,False
+9847-HNVGP,1282,0,-,One year,17,19.95,0.11288592291367537,False
+8958-JPTRR,1283,0,-,One year,56,24.3,0.11210272118347102,False
+4584-LBNMK,1284,0,-,One year,45,24.7,0.11202130779323337,False
+7929-SKFGK,1285,0,-,Two year,70,114.3,0.11132052815281458,False
+9822-BIIGN,1286,0,-,Month-to-month,53,71.85,0.1108173009260903,False
+9447-YPTBX,1287,0,-,One year,50,19.85,0.10986298976644618,False
+2361-UPSND,1288,0,-,One year,46,70.6,0.10981346245261493,False
+4054-CUMIA,1289,0,-,Month-to-month,18,20.25,0.1094047566042557,False
+5505-OVWQW,1290,0,-,One year,17,20.15,0.10923719666492096,False
+3655-SNQYZ,1291,0,-,Two year,69,113.25,0.10878900526863965,False
+7609-NRNCA,1292,0,-,One year,17,19.55,0.10867236120504302,False
+4359-INNWN,1293,0,-,One year,17,20.05,0.10828989945044767,False
+5313-FPXWG,1294,0,-,One year,51,24.6,0.10804376797382413,False
+6016-NXBNJ,1295,0,-,One year,35,19.15,0.10790502708906174,False
+0076-LVEPS,1296,0,-,Month-to-month,29,45.0,0.1073160087726617,False
+7369-TRPFD,1297,0,-,One year,19,18.8,0.10724326395357134,False
+7073-QETQY,1298,0,-,One year,66,20.35,0.10701770781468395,False
+1133-KXCGE,1299,0,-,One year,18,20.1,0.10695058157435157,False
+4830-FAXFM,1300,0,-,Month-to-month,19,24.1,0.10592058088926277,False
+5018-LXQQG,1301,0,-,Month-to-month,30,66.3,0.10574570944511086,False
+5125-CNDSP,1302,0,-,One year,63,40.6,0.10526339946347875,False
+9919-FZDED,1303,0,-,Two year,72,84.1,0.10491049412533744,False
+9555-SAHUZ,1304,0,-,Month-to-month,38,54.5,0.10486111817590996,False
+6242-SGYTS,1305,0,-,One year,62,94.95,0.10481627273451179,False
+6465-GSRCL,1306,0,-,One year,67,106.6,0.10479839785734006,False
+7581-EBBOU,1307,0,-,One year,60,70.15,0.10429318073933576,False
+3055-VTCGS,1308,0,-,One year,63,58.55,0.10417642558207084,False
+2123-VSCOT,1309,0,-,Two year,59,72.1,0.10388753736058588,False
+5857-XRECV,1310,0,-,One year,2,20.5,0.1036122078320957,False
+5642-MHDQT,1311,0,-,One year,53,19.85,0.10322977431107666,False
+4423-JWZJN,1312,0,-,One year,64,90.25,0.10275863282672495,False
+4020-KIUDI,1313,0,-,Month-to-month,6,19.85,0.10274855777489594,False
+6872-HXFNF,1314,0,-,One year,64,58.35,0.10271878559444171,False
+1222-LRYKO,1315,0,-,Month-to-month,6,26.35,0.10195535317408816,False
+4732-RRJZC,1316,0,-,Month-to-month,7,20.25,0.10177982560924098,False
+7622-FWGEW,1317,0,-,Two year,56,85.65,0.10170839205746776,False
+0078-XZMHT,1318,0,-,Two year,72,85.15,0.10109760303473068,False
+6502-KUGLL,1319,0,-,Month-to-month,14,59.45,0.1000648757149485,False
+5681-LLOEI,1320,0,-,One year,43,91.25,0.10001811266750092,False
+7136-IHZJA,1321,0,-,Month-to-month,40,71.35,0.09992258247875185,False
+3077-RSNTJ,1322,0,-,Month-to-month,6,19.7,0.09987601601740692,False
+8741-LQOBK,1323,0,-,Month-to-month,46,35.05,0.0992943432560176,False
+3841-NFECX,1324,0,-,Two year,71,96.35,0.09869129148493846,False
+1090-ESELR,1325,0,-,Two year,72,105.5,0.09865153179244045,False
+3482-ABPKK,1326,0,-,One year,28,54.3,0.09842402559032115,False
+7812-FZHPE,1327,1,Attitude of service provider,Month-to-month,17,24.1,0.09833382607544829,False
+0208-BPQEJ,1328,0,-,Month-to-month,12,19.4,0.0983039414566485,False
+8465-SBRXP,1329,0,-,Two year,38,94.9,0.09824047327210579,False
+4000-VGMQP,1330,0,-,One year,38,78.95,0.09732006247703567,False
+1045-LTCYT,1331,0,-,Month-to-month,8,21.05,0.09614750526022539,False
+8169-SAEJD,1332,0,-,Two year,69,56.55,0.09613762531965844,False
+4538-WNTMJ,1333,0,-,One year,46,24.95,0.09499978064149119,False
+5702-KVQRD,1334,0,-,Two year,71,82.55,0.09440615907417167,False
+2282-YGNOR,1335,0,-,One year,29,58.0,0.09364082183173175,False
+8670-ERCJH,1336,0,-,Two year,72,113.4,0.0932053967647954,False
+9253-VIFJQ,1337,0,-,One year,65,67.05,0.09286961557757832,False
+0565-IYCGT,1338,1,Attitude of support person,One year,69,78.6,0.09249625356062657,False
+0810-DHDBD,1339,0,-,One year,52,74.0,0.09248542389679831,False
+5917-RYRMG,1340,0,-,One year,32,19.8,0.09216661430547411,False
+6937-GCDGQ,1341,0,-,One year,19,48.95,0.09211484171747727,False
+1301-LOPVR,1342,0,-,One year,29,55.35,0.09183126267134062,False
+9670-BPNXF,1343,0,-,One year,45,62.55,0.09164606808500575,False
+4648-YPBTM,1344,0,-,Two year,53,73.9,0.09122744151044933,False
+7639-LIAYI,1345,0,-,Two year,52,79.75,0.09110039231638446,False
+0513-RBGPE,1346,0,-,Two year,37,62.8,0.09067233158832035,False
+8681-ICONS,1347,0,-,Month-to-month,29,20.65,0.09032877100925103,False
+9560-BBZXK,1348,0,-,Two year,36,31.05,0.09013312252074761,False
+9715-WZCLW,1349,0,-,Two year,71,97.2,0.08987185242532092,False
+6631-HMANX,1350,0,-,Two year,72,85.45,0.08983243880737177,False
+6121-TNHBO,1351,0,-,One year,63,83.0,0.0898178665138142,False
+6516-NKQBO,1352,0,-,Two year,38,81.0,0.08975710707861884,False
+5918-VUKWP,1353,0,-,One year,32,20.55,0.08960379221432993,False
+2277-AXSDC,1354,0,-,One year,32,19.75,0.08897299500450451,False
+8221-HVAYI,1355,0,-,Two year,35,69.15,0.0888536334693487,False
+9385-NXKDA,1356,0,-,Two year,72,82.65,0.088695180238831,False
+3648-GZPHF,1357,0,-,One year,32,36.25,0.08812881027081827,False
+6248-TKCQV,1358,0,-,Two year,70,80.6,0.08790108802180488,False
+1998-VHJHK,1359,0,-,One year,27,19.15,0.08781664704024485,False
+4254-QPEDE,1360,0,-,Two year,52,66.25,0.08771801337504208,False
+6993-YCOBK,1361,0,-,Two year,60,110.6,0.08723643953131469,False
+8873-TMKGR,1362,0,-,One year,29,19.1,0.08717377300149241,False
+5656-MJEFC,1363,0,-,Two year,42,48.15,0.08687835879119839,False
+9565-FLVCG,1364,0,-,Two year,65,69.55,0.08648608119895367,False
+4565-EVZMJ,1365,0,-,One year,47,58.9,0.0857429845979099,False
+5578-NKCXI,1366,0,-,One year,58,99.25,0.0844478441792871,False
+9677-AVKED,1367,0,-,One year,53,84.6,0.08409336093945094,False
+9570-KYEUA,1368,0,-,Two year,64,99.25,0.08320642367676177,False
+1536-YHDOE,1369,0,-,One year,17,62.1,0.08299129858642582,False
+4737-HOBAX,1370,0,-,Two year,63,79.8,0.0826933440519817,False
+5275-PMFUT,1371,0,-,Two year,72,64.8,0.08268465116738326,False
+5384-ZTTWP,1372,0,-,Month-to-month,15,19.8,0.08266046402230467,False
+9236-NDUCW,1373,0,-,Two year,21,35.1,0.0825537840348791,False
+0305-SQECB,1374,0,-,One year,11,36.05,0.08211698744443172,False
+8512-WIWYV,1375,0,-,One year,32,20.35,0.08203411222194334,False
+6120-RJKLU,1376,0,-,Two year,62,79.95,0.08202391513000862,False
+6447-EGDIV,1377,0,-,One year,31,20.95,0.08195542327744461,False
+0323-XWWTN,1378,0,-,Two year,3,26.4,0.08160799978124277,False
+0661-KBKPA,1379,0,-,One year,53,78.75,0.08145992936326815,False
+6265-SXWBU,1380,0,-,One year,69,95.75,0.08115627292403764,False
+3649-JPUGY,1381,0,-,Two year,72,88.6,0.08108237534207913,False
+7839-NUIAA,1382,0,-,Month-to-month,61,59.8,0.08078770226587469,False
+9018-PCIOK,1383,0,-,Two year,55,64.75,0.08061990814256102,False
+8398-TBIYD,1384,0,-,Two year,72,84.7,0.08059519190567715,False
+3508-CFVZL,1385,0,-,Two year,71,111.3,0.08048019329924216,False
+4676-WLUHT,1386,0,-,Two year,54,46.2,0.08030968101359934,False
+2724-FJDYW,1387,0,-,One year,39,54.85,0.08023648800498269,False
+5387-ASZNZ,1388,0,-,One year,66,63.85,0.080137925208663,False
+7781-HVGMK,1389,0,-,Two year,72,65.2,0.0800668785086924,False
+1222-KJNZD,1390,0,-,Month-to-month,40,20.4,0.07995775530962257,False
+0909-SELIE,1391,0,-,Two year,61,80.8,0.07952983753605512,False
+2430-RRYUW,1392,0,-,One year,66,54.8,0.07944995214883827,False
+4835-YSJMR,1393,0,-,Two year,39,49.8,0.07943098760118883,False
+5893-PYOLZ,1394,0,-,Two year,56,81.8,0.07936070903848558,False
+5997-OPVFA,1395,0,-,Two year,72,89.05,0.0791160180886689,False
+7520-HQWJU,1396,0,-,Month-to-month,66,67.45,0.07900431499948894,False
+2683-JXWQQ,1397,0,-,Month-to-month,61,33.6,0.07889873624132998,False
+1227-UDMZR,1398,0,-,Two year,72,91.15,0.0777759715962488,False
+5980-BDHPY,1399,0,-,Two year,72,87.1,0.07774931532337513,False
+2990-OGYTD,1400,0,-,Two year,67,86.15,0.07774689446388676,False
+1971-DTCZB,1401,0,-,Two year,72,90.95,0.07763698215506422,False
+0795-LAFGP,1402,0,-,Two year,71,90.4,0.07622539973935304,False
+3489-VSFRD,1403,0,-,One year,56,60.25,0.07584258161084113,False
+5514-YQENT,1404,0,-,Two year,41,111.15,0.07564035648446883,False
+9509-MPYOD,1405,0,-,One year,35,20.75,0.07509448438465112,False
+7138-GIRSH,1406,0,-,Two year,50,69.5,0.0746998339761033,False
+1686-STUHN,1407,0,-,One year,42,19.8,0.074523696879711,False
+2164-SOQXL,1408,0,-,Month-to-month,20,20.05,0.07443484220296953,False
+2226-ICFDO,1409,0,-,Two year,72,85.9,0.07398242890143689,False
+6532-YLWSI,1410,1,Price too high,One year,53,20.8,0.07392744266413218,False
+7579-KKLOE,1411,0,-,Two year,71,91.25,0.0734711216309547,False
+3251-YMVWZ,1412,0,-,One year,53,24.05,0.07324228664106698,False
+3486-KHMLI,1413,0,-,Month-to-month,21,24.7,0.0730883431414457,False
+5495-GPSRW,1414,0,-,Two year,20,19.7,0.07306676219789922,False
+2996-XAUVF,1415,0,-,Two year,70,40.05,0.07305083875817295,False
+9150-HEPMB,1416,0,-,One year,56,52.7,0.07298212522512253,False
+5676-CFLYY,1417,0,-,Two year,71,73.35,0.07266469347120692,False
+2877-VDUER,1418,0,-,One year,35,40.9,0.07265580460553489,False
+0164-XAIRP,1419,0,-,Two year,24,19.55,0.07248719646954535,False
+7054-DMVAS,1420,0,-,Two year,54,65.3,0.07198147174804495,False
+9778-OGKQZ,1421,0,-,Two year,72,92.0,0.07180305711151833,False
+3530-VWVGU,1422,0,-,Month-to-month,22,19.9,0.07119989290271762,False
+8144-DGHXP,1423,0,-,Two year,54,80.6,0.07075458134739085,False
+2863-IMQDR,1424,0,-,Two year,61,89.65,0.07012923180556412,False
+5380-XPJNZ,1425,0,-,One year,38,20.05,0.06995159146926877,False
+7190-XHTWJ,1426,0,-,One year,38,19.3,0.06947992837777155,False
+8908-SLFCJ,1427,0,-,Two year,21,20.85,0.06911953674130145,False
+5324-KTGCG,1428,0,-,One year,71,20.85,0.06861698955187844,False
+7596-IIWYC,1429,0,-,Two year,27,20.25,0.06836946972212248,False
+0401-WDBXM,1430,0,-,Two year,72,105.55,0.0681807366709693,False
+3022-BEXHZ,1431,0,-,Two year,67,111.2,0.06745951017793465,False
+7196-LIWRH,1432,0,-,Two year,6,19.55,0.06718046310270288,False
+4815-YOSUK,1433,0,-,One year,72,104.9,0.0670961741110245,False
+5130-YPIRV,1434,0,-,Two year,62,72.0,0.06705692066110383,False
+6064-ZATLR,1435,0,-,Two year,27,52.85,0.06697564058480843,False
+4578-PHJYZ,1436,0,-,One year,52,68.75,0.0668791998794058,False
+2197-OMWGI,1437,0,-,Two year,68,53.0,0.06660297501038362,False
+2999-AANRQ,1438,0,-,Two year,21,71.05,0.0665442149104363,False
+1599-MMYRQ,1439,0,-,One year,62,81.45,0.06652955102180745,False
+2535-PBCGC,1440,0,-,Two year,70,64.55,0.0664212220302077,False
+8859-YSTWS,1441,0,-,One year,48,19.95,0.06555037100252113,False
+4568-KNYWR,1442,0,-,Two year,52,63.25,0.06515830248125351,False
+9030-QGZNL,1443,0,-,Two year,8,20.85,0.06508929921769893,False
+3850-OKINF,1444,0,-,One year,71,66.2,0.06507855687701222,False
+6504-VBLFL,1445,0,-,Two year,55,58.6,0.06450795291986565,False
+0732-OCQOC,1446,0,-,Two year,52,25.05,0.06449014053913069,False
+0436-TWFFZ,1447,0,-,Two year,67,85.25,0.06389457014090708,False
+9746-YKGXB,1448,0,-,One year,52,44.25,0.06382192431480523,False
+0980-FEXWF,1449,0,-,One year,26,50.35,0.06363248878645697,False
+0674-GCDXG,1450,0,-,Two year,63,71.9,0.06138063182662031,False
+4615-PIVVU,1451,0,-,Two year,42,66.5,0.06134719701002729,False
+7255-SSFBC,1452,0,-,Two year,72,112.25,0.06108998194894834,False
+0383-CLDDA,1453,0,-,Two year,69,85.35,0.060722631066677295,False
+7639-OPLNG,1454,0,-,Two year,70,79.25,0.060679835802874595,False
+7101-HRBLJ,1455,0,-,Two year,72,83.7,0.0606067646323621,False
+8015-IHCGW,1456,0,-,Two year,72,115.5,0.06018011469261854,False
+5014-GSOUQ,1457,0,-,Two year,13,19.95,0.06004791014644952,False
+2977-CEBSX,1458,0,-,Two year,66,90.05,0.05987126377515314,False
+5062-CJJKH,1459,0,-,One year,25,53.65,0.05930348865846239,False
+1414-YADCW,1460,0,-,Two year,70,84.6,0.05869216128113399,False
+7168-HDQHG,1461,0,-,Month-to-month,36,19.2,0.058648164496126066,False
+0412-UCCNP,1462,0,-,Two year,55,59.2,0.05741975185738953,False
+8901-UPRHR,1463,0,-,Two year,72,109.2,0.05727842910210402,False
+4549-ZDQYY,1464,0,-,One year,52,57.95,0.05706381600266777,False
+4018-KJYUY,1465,0,-,Month-to-month,22,20.15,0.05668035569907277,False
+7649-SIJJF,1466,0,-,Two year,71,80.1,0.05664829663340601,False
+8591-TKMZH,1467,0,-,Two year,59,111.1,0.05655189230316782,False
+8050-DVOJX,1468,0,-,Two year,49,81.35,0.056435948923507534,False
+9500-IWPXQ,1469,0,-,One year,61,79.4,0.055975586083537004,False
+1834-ABKHQ,1470,0,-,One year,52,50.95,0.05592983119391299,False
+8515-OCTJS,1471,1,Competitor made better offer,Two year,25,24.75,0.055460967188619065,False
+9602-WCXPI,1472,0,-,One year,50,20.15,0.05545296052151474,False
+8580-QVLOC,1473,1,Competitor made better offer,Two year,72,92.45,0.05539926061789638,False
+4973-MGTON,1474,0,-,Two year,71,84.4,0.0549761958798677,False
+1320-GVNHT,1475,0,-,Two year,72,108.4,0.05462210346854382,False
+3266-FTKHB,1476,0,-,Two year,17,19.15,0.05461011958202016,False
+0839-JTCUD,1477,0,-,Two year,66,89.9,0.05445348936693804,False
+3521-HTQTV,1478,0,-,Two year,34,26.1,0.05423712226473588,False
+5073-RZGBK,1479,0,-,One year,50,80.05,0.0540682999073115,False
+7021-XSNYE,1480,0,-,Two year,7,49.65,0.05403519614831923,False
+1760-CAZHT,1481,0,-,Month-to-month,25,20.8,0.05383095166087516,False
+7799-LGRDP,1482,0,-,Two year,43,25.7,0.05371896096436628,False
+6288-CHQJB,1483,0,-,Two year,54,69.95,0.05361633676502105,False
+5982-PSMKW,1484,0,-,Two year,23,91.1,0.05350011137498783,False
+4086-ATNFV,1485,0,-,One year,34,60.8,0.0534269046800588,False
+0973-KYVNF,1486,0,-,Two year,72,70.65,0.05324030354143344,False
+3766-EJLFL,1487,0,-,Two year,68,109.05,0.05283931704888466,False
+2927-CVULT,1488,0,-,Two year,53,104.05,0.05283000768825419,False
+2296-DKZFP,1489,0,-,Two year,65,71.0,0.052786207470993884,False
+1163-VIPRI,1490,0,-,Two year,65,109.3,0.05261187785118317,False
+6427-FEFIG,1491,0,-,Two year,24,78.6,0.05199279271900426,False
+5306-BVTKJ,1492,0,-,One year,48,55.8,0.051610325888954846,False
+6047-SUHPR,1493,0,-,One year,39,59.8,0.05149135024476256,False
+0526-SXDJP,1494,0,-,Two year,72,42.1,0.051391198526453,False
+3533-UVMOM,1495,0,-,Two year,68,70.95,0.05124363418847289,False
+2405-LBMUW,1496,0,-,One year,61,50.7,0.050859500975270804,False
+3933-DQPWX,1497,0,-,Two year,50,39.7,0.050775907896444455,False
+3779-OSWCF,1498,0,-,Two year,71,93.2,0.05027878589439138,False
+6741-QRLUP,1499,0,-,Two year,63,80.3,0.04980422563078416,False
+6229-UOLQL,1500,0,-,One year,56,52.0,0.04972819466753449,False
+5377-NDTOU,1501,0,-,Two year,71,91.05,0.04970673266729536,False
+8259-DZLIZ,1502,0,-,One year,64,53.85,0.04961825086464736,False
+5542-NKVRU,1503,0,-,Two year,42,20.75,0.0494693772451046,False
+6244-BESBM,1504,0,-,Two year,69,95.2,0.04889811342535208,False
+7197-VOJMM,1505,0,-,Two year,67,69.2,0.048761665861633594,False
+6870-ZWMNX,1506,0,-,Two year,70,76.1,0.0487216460969278,False
+4203-QGNZA,1507,0,-,Month-to-month,28,20.25,0.04831431502150334,False
+3617-XLSGQ,1508,0,-,Two year,66,109.25,0.04814770206986783,False
+0661-KQHNK,1509,0,-,One year,6,19.0,0.04781424294353081,False
+5965-GGPRW,1510,0,-,Two year,72,105.25,0.04773748309850715,False
+4521-WFJAI,1511,0,-,Two year,56,25.95,0.047607659686661856,False
+7710-JSYOA,1512,0,-,Two year,69,93.3,0.04759427267545923,False
+1395-WSWXR,1513,0,-,Two year,24,20.75,0.04749372546660769,False
+1042-HFUCW,1514,0,-,One year,25,54.75,0.047330821127189386,False
+8241-JUIQO,1515,0,-,One year,61,19.45,0.047293908407039335,False
+8606-CIQUL,1516,0,-,Two year,72,115.75,0.047147043827135304,False
+4213-HKBJO,1517,0,-,Two year,33,25.7,0.046901215828134495,False
+4992-LTJNE,1518,0,-,Two year,72,55.3,0.04675588846978601,False
+4940-KHCWD,1519,0,-,Two year,60,37.7,0.0465948597990449,False
+4530-NDRKU,1520,0,-,One year,42,19.05,0.04652767976105939,False
+3724-BSCVH,1521,0,-,One year,10,20.45,0.046414910461542544,False
+1298-PHBTI,1522,0,-,Two year,71,84.8,0.046341195384270215,False
+2451-YMUXS,1523,0,-,Two year,67,64.55,0.04450866289829098,False
+4114-QMKVN,1524,0,-,One year,56,68.75,0.04444776562187789,False
+6859-QNXIQ,1525,0,-,Two year,72,113.1,0.04435430160856169,False
+8205-VSLRB,1526,0,-,Two year,70,77.3,0.044351908464533275,False
+1073-XXCZD,1527,0,-,Two year,55,25.7,0.04417924062094305,False
+2954-PIBKO,1528,0,-,Two year,69,64.15,0.044161313355391876,False
+0848-SOMKO,1529,0,-,Two year,70,48.4,0.04409079530224946,False
+2990-IAJSV,1530,0,-,Two year,72,92.0,0.044059784726697686,False
+9281-CEDRU,1531,0,-,Two year,68,64.1,0.04378658965390257,False
+3795-CAWEX,1532,0,-,Two year,70,116.55,0.04373610566076568,False
+5171-EPLKN,1533,0,-,Two year,27,19.85,0.043699726141130026,False
+9067-YGSCA,1534,0,-,One year,70,26.05,0.04369255673245538,False
+6695-FRVEC,1535,0,-,Two year,67,60.4,0.04361067338133644,False
+3717-FDJFU,1536,0,-,Two year,5,20.45,0.043283761414775454,False
+4323-ELYYB,1537,0,-,One year,13,20.0,0.04324472270229153,False
+4012-YCFAI,1538,0,-,Two year,60,61.35,0.04261225963282821,False
+2452-MRMZF,1539,0,-,Two year,72,25.7,0.04174405205934535,False
+0572-ZJKLT,1540,0,-,Two year,46,99.65,0.0416438270300651,False
+0281-CNTZX,1541,0,-,Two year,63,19.95,0.04163313635263534,False
+8413-YNHNV,1542,0,-,Two year,69,90.65,0.0412793213667462,False
+5044-XDPYX,1543,0,-,Two year,51,25.5,0.041212781311385026,False
+8780-YRMTT,1544,0,-,Two year,66,47.4,0.04115422634682171,False
+4933-BSAIP,1545,0,-,Two year,40,19.1,0.04112908732222391,False
+0266-GMEAO,1546,0,-,Two year,72,114.3,0.040967538190059855,False
+2143-LJULT,1547,0,-,Two year,67,25.25,0.04090850414389878,False
+4304-XUMGI,1548,0,-,Two year,50,75.15,0.040681241342207894,False
+1627-AFWVJ,1549,0,-,Two year,29,19.4,0.04043989763972273,False
+0017-IUDMW,1550,0,-,Two year,72,116.8,0.0403954868135346,False
+7996-BPXHY,1551,0,-,Two year,13,25.0,0.04017354059042014,False
+7253-UVNDW,1552,1,Network reliability,Two year,46,54.35,0.04010927939246879,False
+1619-YWUBB,1553,0,-,Two year,68,24.95,0.03989501738332317,False
+0019-GFNTW,1554,0,-,Two year,56,45.05,0.039566887408578444,False
+3230-JCNZS,1555,0,-,Two year,71,99.0,0.03937218651089229,False
+1862-QRWPE,1556,0,-,Two year,48,20.65,0.0393475235554041,False
+5075-JSDKI,1557,0,-,Two year,59,24.45,0.039323760946475356,False
+5176-LMJXE,1558,0,-,Two year,47,20.55,0.03922315965034017,False
+8039-ACLPL,1559,0,-,Two year,72,68.75,0.03896931675685063,False
+3569-VLDHH,1560,0,-,One year,66,75.1,0.038922160804711774,False
+6522-OIQSX,1561,0,-,Two year,69,54.95,0.03881483852899692,False
+7706-YLMQA,1562,0,-,One year,70,19.7,0.038805911743523,False
+5227-JSCFE,1563,0,-,Two year,71,46.35,0.03875749725326851,False
+8859-DZTGQ,1564,0,-,Two year,33,20.35,0.03873595968500758,False
+4701-LKOZD,1565,0,-,Two year,70,89.75,0.038239300288067365,False
+2789-CZANW,1566,0,-,Two year,64,110.3,0.038134840707126826,False
+1561-BWHIN,1567,0,-,One year,19,19.8,0.03775999230388335,False
+7860-KSUGX,1568,0,-,Two year,72,64.45,0.03736420981291689,False
+7030-FZTFM,1569,0,-,Two year,72,110.9,0.037176118604908465,False
+3612-YVGSJ,1570,0,-,Two year,71,24.45,0.0371354553220264,False
+9964-WBQDJ,1571,0,-,Two year,71,24.4,0.03711812318812157,False
+6370-ZVHDV,1572,0,-,Two year,61,25.3,0.03709415714032715,False
+9646-NMHXE,1573,0,-,Two year,47,19.65,0.036705122998819714,False
+0336-PIKEI,1574,0,-,Two year,72,74.4,0.03657902659415457,False
+8659-IOOPU,1575,0,-,Two year,71,100.45,0.03605839840211875,False
+6556-DBKZF,1576,0,-,Two year,71,76.05,0.03597369240661181,False
+5199-FPUSP,1577,0,-,One year,33,34.05,0.035929696562396134,False
+2560-WBWXF,1578,0,-,Two year,68,24.15,0.03583831224471003,False
+8441-SHIPE,1579,0,-,Two year,67,25.6,0.035782854718601265,False
+3399-BMLVW,1580,0,-,Two year,51,60.5,0.035734615129880826,False
+1534-OULXE,1581,0,-,One year,61,49.7,0.03572508675096707,False
+1676-MQAOA,1582,0,-,Two year,72,75.1,0.03564049665332817,False
+6139-ZZRBQ,1583,0,-,Two year,64,20.05,0.03550950962379144,False
+1231-YNDEK,1584,0,-,Two year,58,19.15,0.03543354104060245,False
+4632-PAOYU,1585,0,-,One year,22,19.95,0.03535704900555435,False
+1053-MXTTK,1586,0,-,Two year,72,108.65,0.03526510647684992,False
+1333-PBMXB,1587,0,-,One year,54,24.75,0.034009196129499805,False
+7527-QNRUS,1588,0,-,Two year,17,25.15,0.03386817360574074,False
+6892-BOGQE,1589,0,-,Two year,71,20.9,0.03383327060680526,False
+3662-FXJFO,1590,0,-,Two year,54,20.5,0.033517507216145444,False
+2300-RQGOI,1591,0,-,Two year,38,20.05,0.0332637273074288,False
+6546-OPBBH,1592,0,-,One year,51,23.95,0.033234089968353246,False
+2550-AEVRU,1593,0,-,One year,57,53.45,0.033143411037197076,False
+9224-VTYID,1594,0,-,Two year,47,90.5,0.03264701415870544,False
+6080-LNESI,1595,0,-,Two year,51,24.75,0.03256564217031298,False
+1960-UOTYM,1596,0,-,Two year,52,79.2,0.032203345990978995,False
+5322-TEUJK,1597,0,-,Two year,71,114.6,0.03205764640085654,False
+5821-MMEIL,1598,0,-,Two year,57,19.9,0.03193628089803102,False
+1240-HCBOH,1599,0,-,Two year,67,26.1,0.031870042586698226,False
+7921-BEPCI,1600,0,-,Two year,72,59.75,0.031765963496304485,False
+5208-FVQKB,1601,0,-,Two year,70,67.95,0.031704547257178514,False
+3078-ZKNTS,1602,0,-,Two year,13,19.75,0.03167367918049377,False
+3133-PZNSR,1603,0,-,Two year,72,97.75,0.03153602907422656,False
+6010-DDPPW,1604,0,-,Two year,70,25.15,0.03142708771263089,False
+8402-OOOHJ,1605,0,-,Two year,41,20.65,0.031269564159801005,False
+3785-KTYSH,1606,0,-,Two year,53,24.6,0.031089213782515113,False
+3913-RDSJZ,1607,0,-,Two year,64,25.55,0.03081441405990147,False
+0971-QIFJK,1608,0,-,Two year,69,24.25,0.030692991378676024,False
+3512-IZIKN,1609,1,Product dissatisfaction,Two year,70,65.3,0.030411218712953242,False
+0739-UUAJR,1610,0,-,Two year,72,53.8,0.030264053344221914,False
+4393-GEADV,1611,0,-,Two year,70,114.75,0.029957734905771704,False
+1757-TCATG,1612,0,-,One year,35,20.05,0.02981058896274798,False
+3873-WOSBC,1613,0,-,Two year,67,25.6,0.02966732802865013,False
+4056-QHXHZ,1614,0,-,Two year,72,107.45,0.02946623282424261,False
+8510-TMWYB,1615,0,-,Two year,54,59.8,0.029214256638566912,False
+9174-IHETN,1616,0,-,Two year,50,70.35,0.029173042369137005,False
+8896-RAZCR,1617,0,-,Two year,44,19.9,0.02902016694560007,False
+3635-QQRQD,1618,0,-,Two year,62,20.05,0.028700201643207076,False
+4807-IZYOZ,1619,0,-,Two year,51,20.65,0.02816852386217347,False
+4698-KVLLG,1620,0,-,Two year,51,19.6,0.027874652727685974,False
+3308-DGHKL,1621,0,-,Two year,69,19.3,0.027702593827467557,False
+7596-ZYWBB,1622,0,-,Two year,65,59.6,0.02764702564914936,False
+8838-GPHZP,1623,0,-,Two year,63,20.6,0.027392040823394175,False
+3745-HRPHI,1624,0,-,Two year,66,54.65,0.027270116307884337,False
+4312-KFRXN,1625,0,-,Two year,72,25.4,0.02667743946133719,False
+1403-LKLIK,1626,0,-,One year,33,20.1,0.0266157403078581,False
+5498-IBWPI,1627,0,-,One year,66,49.4,0.026592701390320373,False
+4707-MAXGU,1628,0,-,Two year,72,25.85,0.02656240778086801,False
+2193-SFWQW,1629,0,-,Two year,72,111.95,0.026254870747509023,False
+2169-RRLFW,1630,0,-,Two year,71,25.6,0.026098626674693013,False
+5197-YPYBZ,1631,0,-,Two year,12,25.25,0.02516957419133755,False
+9867-XOBQA,1632,0,-,Two year,21,53.15,0.025159034251421988,False
+0567-XRHCU,1633,0,-,Two year,69,43.95,0.025019038201952788,False
+2817-LVCPP,1634,0,-,Two year,50,19.4,0.025004719713277876,False
+5696-JVVQY,1635,0,-,Two year,48,70.1,0.02499205008741082,False
+0969-RGKCU,1636,0,-,One year,37,19.8,0.024964411030927797,False
+9953-ZMKSM,1637,0,-,Two year,63,25.25,0.024956558366368703,False
+5360-XGYAZ,1638,0,-,Two year,72,65.65,0.024861375531587692,False
+2256-YLYLP,1639,0,-,Two year,68,72.95,0.02459340425537114,False
+9500-WBGRP,1640,0,-,Two year,69,19.1,0.02448808740910635,False
+6332-FBZRI,1641,0,-,One year,67,69.35,0.02432040101762221,False
+2097-YVPKN,1642,0,-,Two year,65,25.75,0.02396358896941057,False
+6828-HMKWP,1643,0,-,Two year,12,21.05,0.02364714561765801,False
+5743-KHMNA,1644,0,-,Two year,71,25.55,0.023577440333687878,False
+1172-VIYBP,1645,0,-,Two year,53,69.7,0.023380682809530814,False
+8544-JNBOX,1646,0,-,Two year,72,20.8,0.023248488871359,False
+9227-YBAXE,1647,0,-,Two year,65,82.5,0.023206603874148784,False
+4962-CHQPW,1648,0,-,One year,29,19.85,0.023068192225384455,False
+5248-RPYWW,1649,0,-,Two year,72,90.15,0.022879924349335484,False
+8092-NLTGF,1650,0,-,Two year,72,24.75,0.022874414740496507,False
+0224-NIJLP,1651,0,-,Two year,8,20.15,0.02273006047020138,False
+4990-ALDGW,1652,0,-,Two year,57,20.75,0.02263837966200361,False
+8314-HTWVE,1653,0,-,Two year,7,19.85,0.022321074338951818,False
+8464-EETCQ,1654,0,-,Two year,57,18.8,0.022033279043710476,False
+9958-MEKUC,1655,0,-,Two year,72,103.95,0.021910182260543254,False
+9443-JUBUO,1656,0,-,Two year,72,65.25,0.021739471178058606,False
+5859-HZYLF,1657,0,-,Two year,26,19.15,0.02140397498597136,False
+4955-VCWBI,1658,0,-,One year,43,20.0,0.021194681873079598,False
+5442-PPTJY,1659,0,-,Two year,12,19.7,0.02066620461139138,False
+9397-TZSHA,1660,0,-,Two year,69,24.6,0.020658504899874267,False
+2848-YXSMW,1661,0,-,Two year,72,19.4,0.020643160336824878,False
+1088-AUUZZ,1662,0,-,Two year,56,75.85,0.020638796173571606,False
+5787-KXGIY,1663,0,-,Two year,72,19.3,0.020623565536918555,False
+4077-HWUYD,1664,0,-,Two year,72,87.55,0.020361126568643372,False
+5146-YYFRZ,1665,0,-,Two year,67,19.95,0.02022103692572366,False
+2808-CHTDM,1666,0,-,Two year,23,25.1,0.019746218570390304,False
+6656-GULJQ,1667,0,-,Two year,72,83.55,0.01954024302399116,False
+0071-NDAFP,1668,0,-,Two year,25,25.5,0.019505873682504213,False
+8292-ITGYJ,1669,0,-,Two year,45,24.65,0.019447168360553328,False
+3896-ZVNET,1670,0,-,Two year,24,24.7,0.01922820021610083,False
+6696-YDAYZ,1671,0,-,Two year,16,20.5,0.019010877175225198,False
+8148-NLEGT,1672,0,-,Two year,42,22.95,0.019004773095202515,False
+8295-KMENE,1673,0,-,Two year,59,76.45,0.0189091829333338,False
+7473-ZBDSN,1674,0,-,Two year,14,18.8,0.018845287429763942,False
+1599-EAHXY,1675,0,-,One year,60,23.95,0.018641926848598077,False
+4718-WXBGI,1676,0,-,Two year,72,91.95,0.018626014224630977,False
+3704-IEAXF,1677,0,-,Two year,72,53.65,0.01857538962196457,False
+5727-MYATE,1678,0,-,Two year,72,90.8,0.018423270063864707,False
+3508-VLHCZ,1679,0,-,Two year,71,90.55,0.01809895652875232,False
+7018-FPXHH,1680,0,-,Two year,56,59.8,0.01774415805296871,False
+3070-FNFZQ,1681,0,-,Two year,23,20.4,0.017612881360794714,False
+1722-LDZJS,1682,0,-,One year,53,20.2,0.01741452571629947,False
+1223-UNPKS,1683,0,-,Two year,20,20.05,0.01727874697300011,False
+3274-NSDWE,1684,0,-,Two year,68,19.6,0.016632330452030025,False
+0769-MURVM,1685,0,-,Two year,72,65.7,0.016578722405260718,False
+3120-FAZKD,1686,0,-,Two year,54,24.05,0.01635975297644744,False
+6923-AQONU,1687,0,-,Two year,23,20.9,0.016265543335335086,False
+8414-OOEEL,1688,0,-,Two year,66,79.5,0.01613819318675553,False
+7340-KEFQE,1689,0,-,Two year,51,34.2,0.016021436329744013,False
+8395-ETZKQ,1690,0,-,One year,68,19.5,0.015956930143468377,False
+5016-LIPDW,1691,0,-,One year,57,19.4,0.01590996517291208,False
+6051-PTVNS,1692,0,-,One year,55,19.15,0.01585276387851435,False
+9488-FVZCC,1693,0,-,Two year,72,79.5,0.015361334110354398,False
+7083-MIOPC,1694,0,-,Two year,72,20.25,0.01527317205460475,False
+1468-DEFNC,1695,0,-,Two year,64,24.4,0.01488384121813892,False
+7599-NTMDP,1696,0,-,Two year,62,48.7,0.014875686210348986,False
+6248-BSHKG,1697,0,-,One year,61,20.4,0.014657896935928384,False
+6439-PKTRR,1698,0,-,Two year,70,80.7,0.014123982590228682,False
+2821-WARNZ,1699,0,-,One year,49,19.45,0.013895227115816259,False
+0506-YLVKJ,1700,0,-,Two year,46,20.2,0.013813065342998558,False
+3472-QPRCH,1701,0,-,Two year,40,25.25,0.013812531857675347,False
+9503-XJUME,1702,0,-,One year,52,19.65,0.013505259850181481,False
+2908-WGAXL,1703,0,-,Two year,56,24.95,0.01330029014711431,False
+5939-SXWHM,1704,0,-,Two year,48,26.3,0.013249539548608046,False
+1270-XKUCC,1705,0,-,Two year,30,19.7,0.013184009995744952,False
+3262-EIDHV,1706,0,-,Two year,72,84.7,0.01314434199952321,False
+1635-HDGFT,1707,0,-,Two year,19,20.5,0.013018913248705657,False
+2208-NKVVH,1708,0,-,Two year,43,24.25,0.012883191100165689,False
+1716-LSAMB,1709,0,-,Two year,45,54.65,0.012700171070205475,False
+2799-TSLAG,1710,0,-,Two year,65,25.3,0.012385261833215939,False
+6897-RWMUB,1711,0,-,Two year,61,68.05,0.012018993586447667,False
+9068-FHQHD,1712,0,-,Two year,40,20.15,0.011905811235851316,False
+7480-SPLEF,1713,0,-,Two year,69,26.0,0.011820461579248964,False
+5465-BUBFA,1714,0,-,Two year,41,19.3,0.011541159211739607,False
+9392-XBGTD,1715,0,-,Two year,27,20.6,0.011270330823885783,False
+3511-BFTJW,1716,0,-,Two year,72,38.5,0.011112235456785557,False
+5549-ZGHFB,1717,0,-,Two year,50,24.95,0.011044542538535778,False
+1106-HRLKZ,1718,0,-,Two year,40,19.6,0.010880046489030295,False
+5804-JMYIO,1719,0,-,Two year,39,19.75,0.010728160965941046,False
+4625-XMOYM,1720,0,-,Two year,72,26.25,0.010642406184752038,False
+4878-BUNFV,1721,0,-,Two year,42,20.7,0.010501438962736392,False
+3190-ITQXP,1722,0,-,Two year,46,20.25,0.010382634448863096,False
+3359-DSRKA,1723,0,-,Two year,58,19.85,0.010057492989994437,False
+6365-HITVU,1724,0,-,Two year,71,87.25,0.009986297872000664,False
+7033-CLAMM,1725,0,-,Two year,48,20.2,0.009911134403618627,False
+2253-KPMNB,1726,0,-,Two year,69,46.25,0.009870458908588882,False
+3470-OBUET,1727,0,-,Two year,67,74.0,0.00981446523270713,False
+8882-TLVRW,1728,0,-,Two year,69,39.1,0.009630717809156836,False
+9975-GPKZU,1729,0,-,Two year,46,19.75,0.009408995348634604,False
+9972-EWRJS,1730,0,-,Two year,67,19.25,0.009197810911518625,False
+9257-AZMTZ,1731,0,-,Two year,52,20.1,0.009030820343147223,False
+2007-QVGAW,1732,0,-,Two year,68,19.35,0.00899711578356094,False
+2718-YSKCS,1733,0,-,Two year,71,19.6,0.008747597419226606,False
+7729-XBTWX,1734,0,-,Two year,66,19.75,0.00868643873139466,False
+7558-IMLMT,1735,0,-,Two year,67,20.8,0.008574765072462727,False
+4195-PNGZS,1736,0,-,Two year,69,24.45,0.008031657228772523,False
+1399-OUPJN,1737,0,-,Two year,57,19.75,0.008021289855016269,False
+8755-OGKNA,1738,0,-,Two year,57,19.5,0.008002023735558715,False
+6855-VLGOS,1739,0,-,Two year,72,20.55,0.00799516652746415,False
+6585-WCEWR,1740,0,-,Two year,72,20.35,0.007979799760274551,False
+2400-FEQME,1741,0,-,Two year,55,20.5,0.00777016775184116,False
+7268-WNTCP,1742,0,-,Two year,62,20.45,0.007479491009287864,False
+8165-ZJRNM,1743,0,-,Two year,72,23.75,0.007162633842170457,False
+6485-QXWWE,1744,0,-,Two year,62,26.0,0.007008270697753857,False
+3810-PJUHR,1745,0,-,Two year,70,25.35,0.006995226505670853,False
+3777-XROBG,1746,0,-,Two year,58,19.55,0.0068524093206993285,False
+6285-FTQBF,1747,0,-,Two year,72,25.55,0.006634347909427798,False
+7064-JHXCE,1748,0,-,Two year,62,20.05,0.0065256662205211355,False
+9786-YWNHU,1749,0,-,Two year,63,63.55,0.006444155974209252,False
+1555-HAPSU,1750,0,-,Two year,71,23.9,0.00642888529873652,False
+9625-RZFUK,1751,0,-,Two year,63,19.7,0.0064111188240525505,False
+8957-THMOA,1752,0,-,Two year,50,20.15,0.006301236858000363,False
+0640-YJTPY,1753,0,-,Two year,72,21.0,0.005969608818424439,False
+8750-QWZAJ,1754,0,-,Two year,70,19.8,0.005945512925043917,False
+0794-YVSGE,1755,0,-,Two year,72,20.3,0.005929465473534584,False
+3563-SVYLG,1756,0,-,Two year,68,62.65,0.0058647414120429255,False
+0264-CNITK,1757,0,-,Two year,71,20.1,0.00582658921099654,False
+0847-HGRML,1758,0,-,Two year,62,20.0,0.005660631971558257,False
+5893-KCLGT,1759,0,-,Two year,72,19.75,0.0055319561179194305,False
+5346-BZCHP,1760,0,-,Two year,69,19.4,0.005354224378163118,False
+0831-JNISG,1761,0,-,Two year,71,19.8,0.005334616582284551,False

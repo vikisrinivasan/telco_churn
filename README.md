@@ -1,14 +1,37 @@
 telco_churn
 ==============================
-Python Version=3.7.2
 
+Singtel AIDA churn case study: rank customers for a 20%-capacity retention list and
+test whether contact-centre transcripts improve it.
 
-comfort delgro project
+Deliverables
+------------
+
+| File | What it is |
+|---|---|
+| `notebooks/notebook_v1.2.ipynb` | Technical notebook, brief sections 1-6 plus microsegments |
+| `reports/singtel-churn-excom.html` | 8-slide Singtel ExCom deck (self-contained, opens offline) |
+| `reports/test_scores_{tabular,combined}.csv` | Test-set readout: churn score vs recorded churn reason |
+| `reports/call_list.csv` | Scored base with segment and the top-20% call flag |
 
 RUN Command
 ------------
 
-make run raw_data_path=/data/raw interim_data_path=/data/interim processed_data_path=/data/processed
+Python 3.12 environment: `uv venv --python 3.12 .venv && uv pip install --python .venv/bin/python -r requirements.txt`
+
+    make run        # extract-data -> make-dataset -> build-features -> train-model -> predict
+    make notebook   # re-execute the notebook
+    make deck       # rebuild the ExCom deck from reports/deck_data.json
+
+| Step | Script | In -> Out |
+|---|---|---|
+| extract-data | `src/data/extract_dataset.py` | Kaggle + HuggingFace -> `data/raw` |
+| make-dataset | `src/data/make_dataset.py` | clean, join calls to customers, T0 filter -> `data/interim` |
+| build-features | `src/features/build_features.py` | tabular + call sequence + text score, split -> `data/processed` |
+| train-model | `src/models/train_model.py` | logistic models, metrics at 20% -> `models/singtel`, `reports/` |
+| predict | `src/models/predict_file.py` | call list with segments -> `reports/call_list.csv` |
+
+The legacy CDR-project modules (`src/pa_lib`, `training_parameter.yaml`) are kept but no longer on the run path.
 
 
 Model Grid Search Parameters
